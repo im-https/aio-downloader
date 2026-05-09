@@ -7,6 +7,95 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 18:29
+---
+
+## pm_afshaa — post 90417
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزارت انرژی آمریکا اعلام کرد تحت رهبری دونالد ترامپ، 13.5 کیلوگرم اورانیوم غنی‌شده با درجه خلوص بالا را از یک رآکتور تحقیقاتی در ونزوئلا خارج و به ایالات متحده منتقل کرده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## Persian_Trend_Official — post 13758
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+افغانستان تست خدمات اینترنت 5G رو در کابل استارت زده، عراق تلگرام رو رفع فیلتر کرده؛ اما جمهوری اسلامی تا آخرین لحظات حیات خود درحال آزار و اذیت میلیون‌ها ایرانیه!
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13757
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13757_1778338788.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 عراق یک بالن حامل محموله بزرگ کپتاگون را ضبط کرد
+
+نیروهای مرزبانی عراق اعلام کردند یک بالن هوایی که از سمت سوریه وارد خاک عراق شده بود را رهگیری و ضبط کرده‌اند.
+
+طبق بیانیه منتشرشده:
+
+▪️ این بالن حامل بیش از ۳۴ کیلوگرم قرص مخدر بوده
+
+▪️ تعداد قرص‌های کشف‌شده بیش از ۱۹۸ هزار عدد کپتاگون اعلام شده است
+
+قاچاق کپتاگون در سال‌های اخیر به یکی از مهم‌ترین چالش‌های امنیتی منطقه، به‌ویژه در مرزهای سوریه، عراق و کشورهای عربی تبدیل شده است/نایا
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 19839
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_19839_1778338788.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴توییت اتاق جنگ اسرائیل:
+
+🦁ایران را از اشغالگران تروریستش آزاد کنید.
+
+@IranianMinds
+</div>
+
+## alonews — post 118901
+
+<div align="center">
+  <a href="telegram/content/alonews_118901_1778338789.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ستاد فرماندهی نیروهای آمریکا مدعی شد: تعداد کشتی‌هایی که مسیرشان را تغییر دادیم به ۵۸ کشتی و تعداد کشتی‌هایی که از ۱۳ آوریل هدف قرار دادیم به ۴ کشتی افزایش یافته است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118900
+
+<div align="center">
+  <a href="telegram/content/alonews_118900_1778338789.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈یوری اوشاکوف، دستیار رئیس جمهور روسیه: پوتین بارها تاکید کرده است که اگر زلنسکی خواهان دیدار باشد، مسکو آماده پذیرایی از او است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 18:22
 ---
 
