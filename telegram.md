@@ -7,6 +7,158 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 23:13
+---
+
+## WithYashar — post 11096
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11096_1778615018.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کاور
+@withyashar
+</div>
+
+## kianmeli1 — post 87372
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87372_1778615019.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رؤیافروشی تلویزیون ها پایانی ندارد
+
+قبل از علی خامنه ای میگفتند با کشته شدن خامنه ای کار تمام است
+امروز میگویند با پایان لایه بعدی کار تمام است
+
+هموطن٫ کار تمام است اما وقتی که «سازماندهی هوشمندانه و شبکه سازی شهری» دیده شود
+
+از ۱۸ دی تا امروز کدام شبکه سازی در کشور توانسته یک قاضی قاتل را از بین ببرد که احساس کنیم نیروهای سازماندهی در حال تلاش است!
+
+با رویافروشی شبکه ها که مدام تحلیل غلط به خوردتان میدهند ٫ براندازی محقق نمی شود
+
+«براندازی بدون سازماندهی ٫ شکست سنگین ادامه دارد»
+
+این صحبت تلخ است اما حقیقت است
+https://t.me/kianmeli1
+</div>
+
+## FarsiVOA — post 217568
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217568_1778615020.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️هیمن سیدی در برنامه تفسیر خبر: جمهوری اسلامی استاد محاسبات غلط از سر ناچاری است
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217567
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ادامه بحران دارو و کمبود موادغذایی زیر سایه خاموشی دیجیتال؛ واکنش کاربران شبکه‌های اجتماعی
+
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14003
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14003_1778615021.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 تهران ادعاهای کویت علیه ۴ شهروند ایرانی را رد کرد
+
+جمهوری اسلامی ادعاهای مطرح‌شده از سوی وزارت خارجه و وزارت کشور کویت درباره برنامه‌ریزی ایران برای انجام اقدامات خصمانه علیه این کشور را «کاملاً بی‌اساس» و مردود دانست.
+
+بر اساس موضع تهران:
+
+▪️ اتهامات مطرح‌شده علیه ۴ شهروند ایرانی رد شده است
+▪️ ایران تأکید کرده هیچ برنامه‌ای برای اقدام علیه کویت نداشته است
+▪️ جمهوری اسلامی این ادعاها را فاقد اعتبار توصیف کرده است
+
+▪️این واکنش پس از آن مطرح می‌شود که کویت از شناسایی و برخورد با آنچه «تهدیدات امنیتی» خوانده بود خبر داده بود.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119585
+
+<div align="center">
+  <a href="telegram/content/alonews_119585_1778615021.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مارکو روبیو از جی‌دی ونس پیشی گرفت؛ پیشتازی در نظرسنجی ۲۰۲۸
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119584
+
+<div align="center">
+  <a href="telegram/content/alonews_119584_1778615022.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس به نقل از منابع: ایران به میانجی پاکستانی اعلام کرده است که تداوم محاصره دریایی در محدوده دریای عرب و خلیج عمان پس از برقراری آتش‌بس، گزاره غیرقابل اعتماد بودن مذاکره با آمریکا را بیش از پیش تقویت کرده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119583
+
+<div align="center">
+  <a href="telegram/content/alonews_119583_1778615022.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز : مقامات ایرانی و غربی گفتند که عربستان سعودی، ایران را از این حملات مطلع کرده و سپس تماس‌های دیپلماتیک فشرده‌ای در کنار تهدیدهای عربستان مبنی بر تلافی بیشتر صورت گرفته است که منجر به تفاهم بین دو کشور در مورد کاهش تنش‌ها شده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119582
+
+<div align="center">
+  <a href="telegram/content/alonews_119582_1778615022.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ویدئوی دردناکی از مشهد، 18 دی. فلکه پارک
+
+
+💔جنازه .... جنازه .... جنازه .... اینجا هم جنازه .... همه جا جنازه ست.
+
+
+🔴این جوانان توسط حکومت تروریست جمهوری اسلامی و عوامل بسیجی و سپاهی با تیر مستقیم کشته شدن، نه توسط اسرائیل و آمریکا.
+
+
+🤔انتقام ما رو توی تاریخ مینویسند، شک نکنید.
+
+
+✅@AloNews
+</div>
+
+## alonews — post 119581
+
+<div align="center">
+  <a href="telegram/content/alonews_119581_1778615023.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای حسن ایوب خان، خبرنگار ARY News پاکستان: طبق اطلاعات من، لجستیک اداری و امنیتی هیئت معاون اول رئیس‌جمهور آمریکا، جی. دی. ونس، هنوز در پاکستان حضور دارد که نشانه آشکاری است از اینکه امیدها برای برگزاری دور دوم مذاکرات ایران و آمریکا در پاکستان همچنان زنده است.
+
+
+🔴 با این حال، هنوز هیچ پیام رسمی از سوی هیچ یک از طرفین درباره ورود آنها به پاکستان برای گفت‌وگوها صادر نشده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 23:04
 ---
 
