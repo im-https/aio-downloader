@@ -42,17 +42,17 @@ jobs:
     timeout-minutes: 90
 
     steps:
-      # ------------------------------------------------------------------
-      # 1. Checkout
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 1. CHECKOUT
+      # ==================================================================
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ------------------------------------------------------------------
-      # 2. Install system dependencies + both downloaders
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 2. INSTALL DEPENDENCIES
+      # ==================================================================
       - name: Install Dependencies
         shell: bash
         run: |
@@ -74,57 +74,71 @@ jobs:
           scdl --version 2>&1 || true
           echo "::endgroup::"
 
-      # ------------------------------------------------------------------
-      # 3. Create output folder
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 3. CREATE OUTPUT FOLDER
+      # ==================================================================
       - name: Create Music Folder
         run: mkdir -p music
 
-      # ------------------------------------------------------------------
-      # 4. Parse URLs & classify into Spotify vs SoundCloud
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 4. PARSE & CLASSIFY URLs (into files)
+      # ==================================================================
       - name: Parse and Classify URLs
         id: parse
         shell: bash
         run: |
           RAW="${{ github.event.inputs.urls }}"
+          # Normalise separators
           URLS=$(echo "$RAW" | tr ',' ' ' | tr '\n' ' ' | tr -s ' ' | sed 's/^ *//;s/ *$//')
           if [ -z "$URLS" ]; then
             echo "::error::No URLs provided."
             exit 1
           fi
 
-          SPOTIFY_URLS=""
-          SOUNDCLOUD_URLS=""
+          # Clear any leftover files
+          rm -f spotify_urls.txt soundcloud_urls.txt
+
           for url in $URLS; do
             if [[ "$url" == *spotify.com* ]]; then
-              SPOTIFY_URLS="$SPOTIFY_URLS \"$url\""
+              echo "$url" >> spotify_urls.txt
             elif [[ "$url" == *soundcloud.com* ]]; then
-              SOUNDCLOUD_URLS="$SOUNDCLOUD_URLS \"$url\""
+              echo "$url" >> soundcloud_urls.txt
             else
               echo "::warning::Unrecognised URL: $url"
             fi
           done
 
+          # Show what we've got
           echo "::group::Spotify URLs"
-          echo "$SPOTIFY_URLS"
+          cat spotify_urls.txt 2>/dev/null || echo "(none)"
           echo "::endgroup::"
           echo "::group::SoundCloud URLs"
-          echo "$SOUNDCLOUD_URLS"
+          cat soundcloud_urls.txt 2>/dev/null || echo "(none)"
           echo "::endgroup::"
 
-          echo "SPOTIFY_URLS=$SPOTIFY_URLS" >> "$GITHUB_OUTPUT"
-          echo "SOUNDCLOUD_URLS=$SOUNDCLOUD_URLS" >> "$GITHUB_OUTPUT"
+          # Tell subsequent steps if the files exist
+          if [ -s spotify_urls.txt ]; then
+            echo "HAS_SPOTIFY=true" >> $GITHUB_OUTPUT
+          else
+            echo "HAS_SPOTIFY=false" >> $GITHUB_OUTPUT
+          fi
+          if [ -s soundcloud_urls.txt ]; then
+            echo "HAS_SOUNDCLOUD=true" >> $GITHUB_OUTPUT
+          else
+            echo "HAS_SOUNDCLOUD=false" >> $GITHUB_OUTPUT
+          fi
 
-      # ------------------------------------------------------------------
-      # 5. Download Spotify (if any URLs)
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 5. DOWNLOAD SPOTIFY (one by one, collect failures)
+      # ==================================================================
       - name: Download Spotify
-        if: steps.parse.outputs.SPOTIFY_URLS != ''
+        if: steps.parse.outputs.HAS_SPOTIFY == 'true'
         shell: bash
         run: |
           FORMAT="${{ github.event.inputs.output_format }}"
           QUALITY="${{ github.event.inputs.audio_quality }}"
+          FAILED="failed_urls.txt"
+          rm -f "$FAILED"   # start fresh
 
           echo "::group::Spotify download config"
           echo "Format : $FORMAT"
@@ -132,69 +146,116 @@ jobs:
           echo "Folder : music/"
           echo "::endgroup::"
 
-          eval spotdl download \
-            --output "music/" \
-            --format "$FORMAT" \
-            --bitrate "$QUALITY" \
-            --threads 4 \
-            ${{ steps.parse.outputs.SPOTIFY_URLS }}
+          # Process each Spotify URL individually
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            echo "::group::Downloading: $url"
 
-          echo "::group::Spotify files in music/"
-          ls -lh music/ 2>/dev/null || echo "No files yet"
+            if spotdl download \
+                 --output "music/" \
+                 --format "$FORMAT" \
+                 --bitrate "$QUALITY" \
+                 --threads 4 \
+                 "$url"; then
+              echo "✓ Success"
+            else
+              echo "✗ Failed – recording URL"
+              echo "$url" >> "$FAILED"
+            fi
+
+            echo "::endgroup::"
+          done < spotify_urls.txt
+
+          # Summary
+          echo "::group::Spotify summary"
+          ls -lh music/ 2>/dev/null || echo "No files"
+          if [ -f "$FAILED" ]; then
+            echo "::warning::Some Spotify downloads failed (see below)"
+            cat "$FAILED"
+          else
+            echo "All Spotify downloads succeeded."
+          fi
           echo "::endgroup::"
 
-      # ------------------------------------------------------------------
-      # 6. Download SoundCloud (if any URLs)
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 6. DOWNLOAD SOUNDCLOUD (one by one, collect failures)
+      # ==================================================================
       - name: Download SoundCloud
-        if: steps.parse.outputs.SOUNDCLOUD_URLS != ''
+        if: steps.parse.outputs.HAS_SOUNDCLOUD == 'true'
         shell: bash
         env:
           SOUNDCLOUD_CLIENT_ID: ${{ secrets.SOUNDCLOUD_CLIENT_ID }}
         run: |
           if [ -z "$SOUNDCLOUD_CLIENT_ID" ]; then
-            echo "::error::SOUNDCLOUD_CLIENT_ID secret is not set."
-            exit 1
+            echo "::error::SOUNDCLOUD_CLIENT_ID secret is not set. Skipping SoundCloud."
+            exit 0   # we continue so the workflow doesn't fail entirely
           fi
 
+          FAILED="failed_urls.txt"
+          # Keep existing failed file from Spotify step (if any) so we append to it
           echo "::group::SoundCloud download config"
           echo "Output path: music/"
           echo "Client ID  : (hidden)"
           echo "::endgroup::"
 
-          URLS="${{ steps.parse.outputs.SOUNDCLOUD_URLS }}"
-          for url in $URLS; do
-            url=$(echo "$url" | sed 's/^"//;s/"$//')
-            echo "::group::Downloading $url"
-            scdl \
-              -l "$url" \
-              --path "music/" \
-              --client-id "$SOUNDCLOUD_CLIENT_ID" \
-              --onlymp3
-            echo "::endgroup::"
-          done
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            echo "::group::Downloading: $url"
 
-          echo "::group::SoundCloud files in music/"
+            if scdl \
+                 -l "$url" \
+                 --path "music/" \
+                 --client-id "$SOUNDCLOUD_CLIENT_ID" \
+                 --onlymp3; then
+              echo "✓ Success"
+            else
+              echo "✗ Failed – recording URL"
+              echo "$url" >> "$FAILED"
+            fi
+
+            echo "::endgroup::"
+          done < soundcloud_urls.txt
+
+          echo "::group::SoundCloud summary"
           ls -lh music/ 2>/dev/null || echo "No files"
+          if [ -f "$FAILED" ] && grep -q 'soundcloud' "$FAILED" 2>/dev/null; then
+            echo "::warning::Some SoundCloud downloads failed (see below)"
+          fi
           echo "::endgroup::"
 
-      # ------------------------------------------------------------------
-      # 7. Validate
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 7. HANDLE FAILED DOWNLOADS (move fail log into music/)
+      # ==================================================================
+      - name: Collect Failed URLs
+        if: always()
+        shell: bash
+        run: |
+          # This step always runs, even if previous ones failed
+          if [ -f failed_urls.txt ] && [ -s failed_urls.txt ]; then
+            echo "::warning::Some downloads failed. Adding failed_downloads.txt to the zip."
+            cp failed_urls.txt music/failed_downloads.txt
+          else
+            echo "No failed downloads – no fail log needed."
+          fi
+
+      # ==================================================================
+      # 8. VALIDATE (we still need at least one song)
+      # ==================================================================
       - name: Validate Download
         shell: bash
         run: |
-          FILE_COUNT=$(find music -type f | wc -l)
-          if [ "$FILE_COUNT" -eq 0 ]; then
-            echo "::error::No audio files were downloaded."
+          # Count only audio files (ignore the txt if present)
+          SONG_COUNT=$(find music -type f ! -name 'failed_downloads.txt' | wc -l)
+          if [ "$SONG_COUNT" -eq 0 ]; then
+            echo "::error::No audio files were downloaded. Exiting."
             exit 1
           fi
-          echo "Total files: $FILE_COUNT"
+          echo "Total songs downloaded: $SONG_COUNT"
           ls -lh music/
 
-      # ------------------------------------------------------------------
-      # 8. Zip everything with random 5‑letter suffix
-      # ------------------------------------------------------------------
+      # ==================================================================
+      # 9. ZIP EVERYTHING (including failed_downloads.txt if present)
+      # ==================================================================
       - name: Create Zip Archive
         shell: bash
         run: |
@@ -203,7 +264,7 @@ jobs:
           ZIP_NAME="music_${RAND5}.zip"
           echo "Zip name: $ZIP_NAME"
 
-          # Move all songs into release_files/ for clean archiving
+          # Move all contents of music/ to a clean staging folder
           mkdir -p release_files
           if [ "$(ls -A music/ 2>/dev/null)" ]; then
             mv music/* release_files/ 2>/dev/null || true
@@ -216,36 +277,29 @@ jobs:
           rm -rf release_files
           ls -lh ${ZIP_NAME}
 
-      # ------------------------------------------------------------------
-      # 9. Push zip to repository
-      # ------------------------------------------------------------------
-      - name: Upload to music folder
+      # ==================================================================
+      # 10. ROBUST PUSH (with retry & rebase, like your direct-downloader)
+      # ==================================================================
+      - name: Upload to downloads folder
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
-          # Configure Git
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
 
           mkdir -p downloads
-
-          # Move zip to downloads folder
           mv *.zip downloads/ 2>/dev/null || true
 
-          # Check if there are files to commit
           if [ -z "$(ls -A downloads/)" ]; then
-            echo "No files to upload."
+            echo "No zip to upload."
             exit 0
           fi
 
           git add downloads/
-
-          # Create a descriptive commit message
           COMMIT_MSG="Add: $(ls -1 downloads/ | tr '\n' ' ' | sed 's/ *$//') [skip ci]"
           git commit -m "$COMMIT_MSG" || echo "Nothing to commit"
 
-          # Retry push up to 5 times with rebase
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
             echo "Push attempt $i..."
@@ -257,10 +311,11 @@ jobs:
               [ $i -lt $RETRIES ] && sleep 3 || exit 1
             fi
           done
-      # ------------------------------------------------------------------
-      # 10. Cleanup
-      # ------------------------------------------------------------------
+
+      # ==================================================================
+      # 11. CLEANUP
+      # ==================================================================
       - name: Cleanup
         if: always()
         shell: bash
-        run: rm -rf music release_files *.zip 2>/dev/null || true
+        run: rm -rf music release_files spotify_urls.txt soundcloud_urls.txt failed_urls.txt *.zip 2>/dev/null || true
