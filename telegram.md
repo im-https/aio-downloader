@@ -7,6 +7,209 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 20:25
+---
+
+## VahidOOnLine — post 239945
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند در پیامی به ایران اینترنشنال درباره سرکوب و بحران‌های اقتصادی و معیشتی می‌گوید مردم در ایران گروگان حکومت هستند. او از رهبران آمریکا و اسرائیل می‌خواهد با جمهوری اسلامی مذاکره و آتش‌بس نکنند. صدای این مخاطب با هوش مصنوعی بازخوانی شده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## DEJradio — post 4621
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4621_1778691317.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑🎥 همدلی و حمایت ایرانیان ونکوور از انقلاب شیر و خورشید
+
+#ونکوور #انقلاب_شیروخورشید
+@DEJradio
+</div>
+
+## IranIntlTV — post 337028
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند در پیامی به ایران اینترنشنال درباره سرکوب و بحران‌های اقتصادی و معیشتی می‌گوید مردم در ایران گروگان حکومت هستند. او از رهبران آمریکا و اسرائیل می‌خواهد با جمهوری اسلامی مذاکره و آتش‌بس نکنند. صدای این مخاطب با هوش مصنوعی بازخوانی شده است.
+</div>
+
+## Persian_Trend_Official — post 14069
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تا ده دقیقه دیکه لایو آغاز میشه
+</div>
+
+## Persian_Trend_Official — post 14068
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 رویترز مدعی حملات جنگنده‌های سعودی به مواضع گروه‌های عراقی شد
+
+💢خبرگزاری رویترز به‌نقل از منابعی مدعی شد جنگنده‌های عربستان سعودی در جریان جنگ اخیر، مواضع گروه‌های مسلح عراقی را هدف قرار داده‌اند.
+
+تاکنون نیز عربستان سعودی به‌صورت رسمی واکنشی به این ادعا نشان نداده است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157147
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157147" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸 در این کافه فردا به رواج پدیده دوست اجاره‌ای در ایران، گزارش گاردین در مورد اموال اسحاق قالیباف در استرالیا، توهین صدا و سیما به علی دایی، حواشی تمام نشدنی اینترنت پرو و سریال‌های مطرح و پر سر و صدای سوریه‌ای می‌پردازیم.
+
+🔸 برای تماس با ما می‌توانید به شناسه کافه فردا در تلگرام صوت و متن بفرستید.
+
+📻 کافه فردا
+</div>
+
+## Dirty_Kids — post 389393
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خمینی وقتی با فشار دولت صدام، مجبور به تَرک عراق شد، به سمت کویت رفت.
+کویت او را راه نداد و آفتابه بدست در مرز عراق و کویت گرفتار شد.
+چرا فرانسه رو انتخاب کرد؟
+چون شهروندان ایرانی می‌توانستند بدون نیاز به ویزا تا "سه ماه" در فرانسه اقامت کنند.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389392
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389392_1778691319.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کپی برداری نوحه خوانی محمود کریمی از مدل اشعار برنامه های کودک تو سیرک شبانه حکومتی‌های حرامزاده؛
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389391
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389391_1778691321.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بهمن محصص ۱۳ سال پیش گلشیفته رو اینجوری توصیف کرد...
+
+چقد فحش خورد اون روزا
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389390
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✖️ سایت بین المللی bet120x 
+✖️  
+👍دارای مجوز رسمی Gambling Judge سوئد
+👍       
+💳شارژ حساب از طریق ارز و یووچر و پرمیوم ووچر 
+💳تسویه حساب دلاری سریع 💊بیمه شرط میکس 
+⚠️فروش شرط 
+🔔ویرایش شرط                    
+3️⃣
+2️⃣ 
+🎁20%هدیه واریز از طریق ارز و ووچر ┅━━━━━━━━━━━…
+</div>
+
+## Dirty_Kids — post 389389
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389389_1778691322.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✖️ سایت بین المللی bet120x 
+✖️
+
+ 
+👍دارای مجوز رسمی Gambling Judge سوئد
+👍
+     
+
+💳شارژ حساب از طریق ارز و یووچر و پرمیوم ووچر
+
+💳تسویه حساب دلاری سریع
+💊بیمه شرط میکس
+
+⚠️فروش شرط
+
+🔔ویرایش شرط                    
+3️⃣
+2️⃣
+
+
+🎁20%هدیه واریز از طریق ارز و ووچر
+┅━━━━━━━━━━━
+
+🎁 10%برگشت باخت به صورت روزانه
+
+🎁 10%برگشت باخت به صورت هفتگی
+
+🎁10%برگشت باخت به صورت ماهانه
+
+💻ادرس ورود به سایت:
+https://bet120x.com/fa/?btag=971470
+➖➖➖➖➖
+   
+👈 آموزش واریز و برداشت دلاری
+👉
+
+
+🔪کانال اطلاع رسانی:
+👇
+
+✈️https://t.me/+1Wv5nGY_a54xNzlk
+</div>
+
+## Dirty_Kids — post 389388
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389388_1778691323.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+و همچنان گلی در حال درخشیدنه
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389387
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389387_1778691325.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آلیس روزنبلوم ستاره اونلی فنز 2 میلیون دلار(360 میلیارد) از طرفدار درجه یکش دریافت کرد تا باهاش ملاقات کنه.
+
+طرفداراش وقتی آلیس رو دیده گفته هر روز ۳ بار باهاش خودارضایی می‌کرده!
+وقتی طرفدارش خواسته به بازوی آلیس دست بزنه، آلیس گفته به من دست نزن، تو خیلی چندش آوری! فورا از من دور شو وگرنه به پلیس زنگ میزنم.
+اون جقی بدبختم ۳۶۰ میلیاردش بگا میره و دست از پا دراز تر برمیگرده خونه.
+
+
+@Dirty_Kids 👻
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 20:14
 ---
 
