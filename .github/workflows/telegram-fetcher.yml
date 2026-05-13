@@ -35,55 +35,34 @@ jobs:
       - name: Commit and push changes
         env:
           BRANCH: ${{ github.ref_name }}
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # ------------- CONFIGURE GIT -------------
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
-      
-          # ------------- STAGE ALL CHANGES ---------
-          # (Adjust the path as needed for each workflow – e.g., '.' or specific folders)
-          git add .
-      
-          # ------------- NOTHING TO COMMIT? --------
+
+          # Stage only if files exist (avoid error on empty content dir)
+          if [ -d telegram/content ]; then git add telegram/content/; fi
+          git add telegram/last_ids.json telegram.md
+
+          # Skip commit if nothing changed
           if git diff --staged --quiet; then
-            echo "✅ No changes to commit."
+            echo "No changes to commit."
             exit 0
           fi
-      
-          git commit -m "chore: update generated files [skip ci]"
-      
-          # ------------- AUTHENTICATED REMOTE ------
-          REPO="${{ github.repository }}"
-          git remote set-url origin "https://x-access-token:${TOKEN}@github.com/${REPO}.git"
-      
-          # ------------- PUSH WITH RETRIES ---------
+
+          # Commit with a descriptive message
+          git commit -m "Update Telegram messages [skip ci]"
+
+          # Retry loop with pull‑rebase to avoid conflicts
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
-            echo "🚀 Push attempt $i of $RETRIES..."
-            git pull --rebase --autostash origin "$BRANCH" || true
+            echo "Push attempt $i..."
+            git pull --rebase --autostash origin "$BRANCH"
             if git push origin "$BRANCH"; then
-              echo "✅ Push succeeded."
+              echo "Push succeeded."
               break
             else
-              echo "❌ Push failed."
-              if [ $i -lt $RETRIES ]; then
-                sleep 3
-              else
-                echo "::error::All push attempts failed. If this is a forked repository, the GITHUB_TOKEN does not have write permission. Use a Personal Access Token (PAT)."
-                exit 1
-              fi
+              echo "Push failed."
+              [ $i -lt $RETRIES ] && sleep 3 || exit 1
             fi
           done
-      
-          # ------------- VERIFICATION ---------------
-          echo "🔍 Verifying remote branch state..."
-          git fetch origin "$BRANCH"
-          if git diff --quiet "origin/$BRANCH" HEAD; then
-            echo "✅ Remote branch matches local – push confirmed."
-          else
-            echo "❌ Remote branch differs from local. The push might have been rejected (common in forks)."
-            echo "::error::Verification failed. Repository is a fork? GITHUB_TOKEN cannot write. Add a PAT secret."
-            exit 1
-          fi
