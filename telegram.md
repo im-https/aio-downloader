@@ -7,6 +7,46 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 05:05
+---
+
+## FoxNewsTwitter — post 341686
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341686_1778722554.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+.@seanhannity: "What is your read on President Xi?"
+
+SECRETARY RUBIO: "China has a plan...they believe they will be the world's most powerful country."
+
+"We're not trying to constrain China, but their rise cannot come at our expense."
+</div>
+
+## BBCPersian — post 280973
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔹دیوید کاماچو خودش شاید عنوان این مطلب را دوست نداشته باشد.
+
+اول به این دلیل که او خود را مصداق عنوان «کودک نابغه» نمی‌داند. هر چند ضریب هوشی (آی‌کیو) ۱۶۲ او بالاتر از ضریب هوشی ۱۳۰ است که سازمان بهداشت جهانی برای حداقل میزان توانایی‌های بیشتر و موهبت هوش برتر در افراد تعیین کرده است.
+
+او فروتنانه به بی‌بی‌سی موندو می‌گوید: «نابغه‌ها دیگر در میان ما نیستند و اگر نابغه هستند به دلیل آن است که کارهای بزرگی انجام داده‌اند».
+
+دومین دلیل هم این است که او دلش نمی‌خواهد با ذهن‌های درخشان فیزیکدانانی مانند استیون هاوکینگ و آلبرت اینشتین که ضریب هوشی ۱۶۰ داشته‌اند هم‌تراز شود.
+
+او با لبخندی بر لب اصرار دارد: «من ده سالم است و تازه شروع کرده‌ام. شاید وقتی هفتاد ساله شدم نابغه شدم اما فقط در صورتی که کارهای بزرگی در طول زندگی‌ام انجام دهم».
+
+ادامه مطلب⬇️
+
+📸Marcos González Díaz/ Courtesy/ POT
+https://bbc.in/3PdBOgl
+@BBCPersian
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 04:53
 ---
 
