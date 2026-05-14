@@ -149,7 +149,6 @@ jobs:
             fi
 
             # ── SHORTCUT MODE (v/a) ────────────────────────
-            # Determine type and value from args
             args_array=()
             while IFS= read -r arg; do
               args_array+=("$arg")
@@ -248,8 +247,8 @@ jobs:
           X_COOKIES: ${{ secrets.X_COOKIES }}
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
-      # ── Package and upload ─────────────────────────────────
-      - name: "Package and upload"
+      # ── Package and upload (per‑file, split >99MB) ──────
+      - name: "Package each file individually into leecher/ (split at 99MB)"
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -258,19 +257,27 @@ jobs:
             exit 0
           fi
 
-          echo "→ Creating ZIP archive..."
-          RND=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
-          ZIP="downloads-${RND}.zip"
-          cd downloads
-          zip -r "../${ZIP}" *
-          cd ..
-          echo "✅ Archive: ${ZIP}"
+          echo "→ Creating per‑file ZIP archives in leecher/ ..."
+          mkdir -p leecher
 
-          echo "→ Committing and pushing..."
+          cd downloads
+          for f in *; do
+            [ -f "$f" ] || continue
+            RND=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
+            echo "  → Zipping: $f → leech-${RND}.zip (split every 99MB)"
+            # -s 99m : split into 99 MB volumes
+            zip -s 99m -r "../leecher/leech-${RND}.zip" "$f"
+          done
+          cd ..
+
+          echo "→ Committing and pushing leecher/ content..."
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add "${ZIP}"
-          git commit -m "Add download ${ZIP} [skip ci]" || echo "Nothing to commit"
+
+          # Only add new/modified files in leecher/
+          git add leecher/*
+          git commit -m "Add per‑file leech ZIPs [skip ci]" || echo "Nothing to commit"
+
           for i in $(seq 1 5); do
             echo "→ Push attempt $i..."
             git pull --rebase --autostash origin "$BRANCH"
