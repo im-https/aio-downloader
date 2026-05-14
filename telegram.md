@@ -7,6 +7,1962 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 15:05
+---
+
+## VahidOOnLine — post 240099
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240099_1778758523.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسینعلی حاجی‌دلیگانی، عضو هیات رییسه مجلس، گفت که ادامه مذاکره با آمریکا اشتباه است و افزود واشینگتن برای آتش‌بس اصرار داشته و به دنبال خرید زمان با اهداف داخلی و انتخاباتی بوده است.
+
+حاجی‌دلیگانی افزود: «خطوط فیبر نوری عبوری از بستر تنگه هرمز نیز باید شامل عوارض سالانه باشند.»
+
+او گفت: «کل تنگه هرمز در حوزه سرزمینی ایران قرار می‌گیرد و مدیریت آن باید در اختیار جمهوری اسلامی باشد.»
+iranintl
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240098
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240098_1778758524.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس جمهوری ایالات متحده شامگاه پنحشنبه ۲۴ اردیبهشت و در جریان سخنرانی در ضیافت شام رئیس جمهوری چین در پکن، شی جین‌پینگ را برای سفر رسمی به واشنگتن در تاریخ دوم مهرماه، دعوت کرد.
+شی جین‌پینگ پیش از این در سال ۲۰۲۳ و برای شرکت در اجلاس سران آسیاپاسیفیک به سانفرانسیسکو سفر کرده بود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240097
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240097_1778758525.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️خبرگزاری فارس، وابسته به سپاه پاسداران، روز پنجشنبه ۲۴ اردیبهشت ماه به نقل از یک «منبع آگاه» گزارش کرد که کشتی‌های چینی از شامگاه پنجشنبه «با تصمیم جمهوری اسلامی، امکان عبور تعدادی از کشتی‌های چینی از تنگه هرمز با رعایت پروتکل مدیریت ایرانی تنگه میسر شد.»
+
+ساعتی پس از انتشار این خبر، صداوسیما به‌نقل از نیروی دریایی سپاه گزارش کرد «از شب گذشته تاکنون ۳۰ فروند کشتی از تنگه هرمز با مجوز ایران عبور کرده‌اند.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240096
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240096_1778758526.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دانشجویان متحد گزارش داد متین زمانیان، دانشجوی کارشناسی علوم سیاسی دانشگاه آزاد تهران مرکز، با گذشت بیش از یک‌ماه از بازداشت، در زندان تهران بزرگ نگهداری می‌شود.
+
+بنا بر این گزارش متین زمانیان در طول دوران بازداشت، از حق دسترسی به وکیل مستقل و دادرسی عادلانه محروم مانده است.
+iranintl
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240095
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️شی جین‌پینگ، رئیس جمهوری چین شامگاه پنجشنبه ۲۴ اردیبهشت در پکن میزبان ضیافت شامی مجلل برای دونالد ترامپ، رئیس جمهوری ایالات متحده و هیئت همراه او بود.
+
+ضیافت شام روسای دو «ابرقدرت» جهانی پس از دیدار و گفتگوی شی با ترامپ و پس از بازدید کم‌سابقه مشترک از «معبد بهشت»، برگزار می‌شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240094
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240094_1778758527.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت هم‌زمان با سفر دونالد ترامپ به پکن، انتظار می‌رود چین سفارش‌های بزرگی برای خرید هواپیما از شرکت بوئینگ ثبت و اعلام کند.
+
+به گفته او، مذاکرات میان واشینگتن و پکن علاوه بر صنعت هوانوردی، حوزه‌هایی مانند انرژی و محصولات کشاورزی را نیز در بر خواهد گرفت.
+
+بسنت همچین به مناقشه تایوان پرداخت و افزود: «ترامپ حساسیت‌های مربوط به این موضوع را درک می‌کند.»
+
+به گفته وزیر خزانه‌داری آمریکا، ترامپ «در روزهای آینده» درباره این مساله صحبت خواهد کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240093
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240093_1778758528.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معین، خواننده شهیر در صفحه اینستاگرام خود با انتشار متنی، شایعات مطرح شده در خصوص اجرا برای تیم فوتبال در جام جهانی را تکذیب کرد. معین در متن خود از جمله نوشته: «عشق من به مردم و سرزمینم همیشه واقعی بوده. اما صدای من زمانی معنا دارد که دل مردم آرام باشد و حال ایران خوب»
+روز گذشته اظهارات مهدی تاج، رئیس فدراسیون فوتبال جمهوری‌اسلامی به شایعاتی از این دست دامن زده بود.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240092
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240092_1778758529.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی تاج، رئیس فدراسیون فوتبال جمهوری‌اسلامی گفته «مسئله ویزا حل نشده و هنوز هیچ روادیدی برای اعضای تیم ملی فوتبال ایران صادر نشده است.» و افزوده «منتظریم ببینیم رفتار طرف مقابل چیست.»
+او از «جلسه سرنوشت‌ساز» با فیفا صحبت به میان آورده چرا که به گفته تاج فیفا «باید به ما گارانتی بدهد»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240091
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240091_1778758530.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، پس از سخنان شی جین‌پینگ در ضیافت رسمی در پکن پشت تریبون رفت و از استقبال انجام‌شده قدردانی کرد. او استقبال از خود در پکن را «افتخاری بزرگ» توصیف کرد و از شی جین‌پینگ «برای این استقبال باشکوه» تشکر کرد.
+
+ترامپ گفت: «امروز گفت‌وگوها و دیدارهای بسیار مثبت و سازنده‌ای با هیات چینی داشتیم و این ضیافت نیز فرصتی ارزشمند است تا در جمع دوستان درباره برخی از موضوعاتی که امروز مطرح کردیم گفت‌وگو کنیم.»
+
+رییس‌جمهوری آمریکا همچنین روابط ایالات متحده و چین را «یکی از تاثیرگذارترین روابط در تاریخ بشر» خواند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240090
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240090_1778758530.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عترشی جین‌پینگ، رهبر چین، در آغاز ضیافت شام رسمی با دونالد ترامپ با بلند کردن جام خود به او و هیات آمریکایی خوشامد گفت و بر ضرورت همکاری میان دو کشور تاکید کرد. رهبر چین تاکید کرد: «دو کشور ما باید شریک باشند، نه رقیب.»
+
+شی در سخنان خود به سال ۲۰۲۶ به عنوان دویست‌وپنجاهمین سالگرد اعلامیه استقلال آمریکا اشاره کرد و گفت: «مردم چین و ایالات متحده هر دو ملت‌های بزرگی هستند.»
+
+او افزود: «تحقق احیای بزرگ ملت چین و عظمت دوباره آمریکا می‌تواند همزمان پیش برود. ما می‌توانیم به موفقیت یکدیگر کمک کنیم و رفاه کل جهان را ارتقا دهیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240089
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240089_1778758531.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاطمه وحدت، نایب‌رییس اتحادیه زنان کارگر سراسر ایران گفت: «نشانه‌های گسترش فقر در جامعه مشهود است. این روزها آدم‌ها را می‌بینیم که حتی برای خرید نان دچار مشکل هستند. این‌ها نشانه‌های کوچکی نیستند. شاید ساده به نظر برسند، اما اگر جدی گرفته نشوند، بعدها به معضل بزرگ اجتماعی تبدیل می‌شوند.»
+
+او افزود: «در شرایط بحرانی، زنان کارگر بیش از دیگران در معرض اخراج قرار می‌گیرند؛ به‌ویژه زنانی که سرپرست خانوار هستند و مسئولیت مستقیم تامین معاش خانواده را برعهده دارند، در اثر این اخراج بیشترین آسیب را متحمل می‌شوند.»
+
+وحدت ادامه داد: «همه از این شرایط خبر دارند، اما مسئله این است که نظارت جدی وجود ندارد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240088
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240088_1778758532.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا گفت بازگشایی تنگه هرمز به نفع چین است و پکن هر کاری بتواند برای بازگشایی این آبراه انجام خواهد داد.
+
+او در مصاحبه با سی‌ان‌بی‌سی تاکید کرد چین پشت صحنه و تا جایی که بر جمهوری اسلامی نفوذ داشته باشد، برای بازگشایی تنگه هرمز همکاری خواهد کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240087
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240087_1778758533.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️آکسیوس روز پنجشنبه ۲۴ اردیبهشت گزارش کرد که این احتمال وجود دارد که دونالد ترامپ، رئیس جمهوری آمریکا بلافاصله پس از بازگشت از سفر رسمی به چین، گام بعدی را در رابطه جنگ با ایران بردارد.
+
+براساس گزارش این رسانه‌ آمریکا، ترامپ گزینه‌هایی از جمله از سرگیری «پروژه آزادی» تنگه هرمز یا آغاز دور تازه بمباران ایران را در اختیار دارد.
+
+آکسیوس در همین گزارش نوشته است که دونالد ترامپ عامدانه و آگاهانه واژه‌های عبارت «من بیش از آنکه به افزایش هزینه‌ها در آمریکا فکر کنم به دست نیافتن ایران به سلاح هسته‌ای فکر می‌کنم» را انتخاب کرده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240086
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️حمله گسترده موشکی و پهپادی روسیه به کی‌یف دست‌کم سه کشته و ده‌ها زخمی برجا گذاشت
+
+♦️روسیه بامداد پنج‌شنبه با صدها پهپاد و ده‌ها موشک، کی‌یف را هدف حملات گسترده قرار داد؛ حملاتی که به گفته مقام‌های اوکراینی دست‌کم سه کشته و ۴۰ زخمی، از جمله دو کودک برجا گذاشت.
+
+تصاویری که خبرگزاری فرانسه منتشر کرده، عملیات امدادگران برای بیرون کشیدن زخمی‌ها از زیر آوار ساختمان‌های مسکونی را نشان می‌دهد.
+
+نیروی هوایی ارتش اوکراین اعلام کرد روسیه ۶۷۵ پهپاد و ۵۶ موشک شلیک کرده که بخش عمده آن‌ها به سمت پایتخت بوده است.
+
+ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین گفت: بیش از ۲۰ نقطه در کی‌یف، از جمله ساختمان‌های مسکونی، مدرسه و مراکز غیرنظامی آسیب دیده‌اند.
+
+زلنسکی در واکنش به سخنان دیروز دمیتری پسکوف، سخنگوی کرملین که گفته بود «جنگ به پایان خود نزدیک شده است» تاکید کرد این حملات نشان می‌دهد جنگ هنوز به پایان نزدیک نشده است.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240085
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240085_1778758533.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه نیویورک‌تایمز گزارش داد نهادهای اطلاعاتی آمریکا معتقدند شرکت‌های چینی درباره ارسال مخفیانه تسلیحات به جمهوری اسلامی از طریق کشورهای ثالث گفت‌وگو کرده‌اند تا منشأ این محموله‌ها پنهان بماند.
+این گزارش ساعاتی پس از ورود دونالد ترامپ به پکن منتشر شد و می‌تواند فشارها بر رئیس‌جمهوری آمریکا را برای درخواست از شی جین‌پینگ به‌منظور قطع حمایت از جمهوری اسلامی افزایش دهد.
+بر اساس این گزارش، مقام‌های آمریکایی بر سر این‌که آیا این انتقال‌ها بالفعل انجام شده یا نه اختلاف نظر دارند، اما گفته‌اند چنین اقداماتی بعید است بدون اطلاع مقام‌های ارشد چینی صورت گرفته باشد.
+رسانه‌های آمریکایی پیش‌تر نیز گزارش داده بودند چین موشک‌های دوش‌پرتاب ضدهوایی به جمهوری اسلامی ارسال کرده است؛ تسلیحاتی که می‌توانند هواپیماها و پهپادها را هدف قرار دهند. همچنین گفته می‌شود تهران در سال ۲۰۲۴ یک ماهواره جاسوسی چینی دریافت کرده که برای شناسایی نیروهای آمریکایی در خاورمیانه از آن استفاده می‌کند.
+در همین حال، گزارش‌هایی از بازسازی توان موشکی جمهوری اسلامی پس از حملات آمریکا و اسرائیل منتشر شده است. بر اساس ارزیابی سازمان سیا، بخش قابل توجهی از موشک‌های بالستیک و پرتابگرهای متحرک ایران همچنان سالم مانده‌اند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240084
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240084_1778758535.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بانک مرکزی ترکیه هدف تورم پایان سال ۲۰۲۶ را از ۱۶ به ۲۴ درصد افزایش داد و اعلام کرد پیامدهای جنگ ایران و اسرائیل و افزایش تنش‌ها در خاورمیانه، فشارهای تورمی را تشدید کرده است. رئیس بانک مرکزی ترکیه گفت افزایش بهای انرژی و اختلال در عرضه، به‌ویژه برای اقتصادهای وابسته به واردات مانند ترکیه، یک ریسک جدی محسوب می‌شود. این بانک همچنین پیش‌بینی تورم پایان ۲۰۲۷ را از ۹ به ۱۵ درصد افزایش داد. نرخ تورم ماهانه ترکیه در آوریل به بیش از ۴ درصد و تورم سالانه به حدود ۳۲ درصد رسید.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240083
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240083_1778758535.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در یک هشدار امنیتی اعلام کرد یک کشتی در دریای عمان، در حالی که در لنگرگاه قرار داشت، توسط «افراد غیرمجاز» تصرف شده و اکنون به سمت آب‌های سرزمینی ایران در حرکت است.
+بر اساس هشدار رسمی UKMTO، این حادثه حدود ۳۸ مایل دریایی شمال شرقی فجیره امارات متحده عربی رخ داده است. هویت کشتی و جزئیات بیشتر درباره مهاجمان هنوز اعلام نشده است.
+این نهاد بریتانیایی اعلام کرد در حال بررسی موضوع است و از همه شناورها خواسته هرگونه فعالیت مشکوک را فورا گزارش دهند.
+هشدار صبح امروز چهارشنبه منتشر شده و نشان‌دهنده یک رخداد امنیتی تازه و حساس در آبراه‌های منطقه است.
+اگرچه این نهاد هنوز درباره عاملان احتمالی این حادثه اظهار نظر نکرده، اما چنین هشدارهایی معمولا در موارد مرتبط با توقیف کشتی‌ها، دزدی دریایی یا عملیات نیروهای نظامی و شبه‌نظامی در منطقه صادر می‌شود.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240082
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240082_1778758536.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری فارس، وابسته به سپاه پاسداران به نقل از «منبع آگاه» نوشت: «با تصمیم جمهوری اسلامی، عبور شماری از کشتی‌های چینی از تنگه هرمز، از شامگاه چهارشنبه، ۲۳ اردیبهشت و پس از توافق بر سر پروتکل‌های مدیریت جمهوری اسلامی بر این آبراه آغاز شده است.»
+
+بر اساس این گزارش، این تصمیم پس از پیگیری‌های مقام‌های چین و در چارچوب «روابط راهبردی» تهران و پکن اتخاذ شد و کشتی‌های مورد درخواست چین اجازه عبور یافتند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240081
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240081_1778758537.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عباس عراقچی، وزیر خارجه جمهوری اسلامی که برای شرکت در اجلاس بریکس، به دهلی نو سفر کرده، گفت: «امارات متحده عربی مستقیما در جنگ علیه ما دخیل بود.»
+او خطاب به اماراتی‌ها گفت: «ائتلاف با اسرائیل هم از شما محافظت نکرد.»
+
+عراقچی ادامه داد: «اماراتی‌ها اجازه دادند از سرزمین‌شان برای شلیک توپخانه و تجهیزات علیه ما استفاده شود.»
+
+وزیر خارجه جمهوری اسلامی افزود: «امارات متحده عربی شریک فعال جنگ علیه ماست و هیچ تردیدی در این باره وجود ندارد و ما شگفت‌زده شدیم که برادران ما در امارات متحده عربی تصمیم گرفتند فعالانه به جنگ علیه ما بپیوندند.»
+
+عراقچی تاکید کرد: «همدستی امارات متحده عربی با اسرائیل غیرقابل بخشش است.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11211
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11211_1778758538.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سلفی لی جون، بنیانگذار و مدیرعامل شیائومی با ایلان ماسک
+@withyashar
+</div>
+
+## WithYashar — post 11210
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الجزیره: چین با آمریکا در مورد ایران انعطاف دارد، اما در مورد تایوان نه
+
+مسئولان چینی پیام واضحی به ایالات متحده ارسال کرده‌اند:
+چین در بسیاری از مسائل مانند ایران، تجارت و فناوری آماده انعطاف و پذیرش اختلاف نظر است، اما در یک موضوع حساس، انعطاف‌پذیر نیست و آن تایوان است.
+@withyashar
+</div>
+
+## WithYashar — post 11209
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11209_1778758539.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایلان لوله لول سر میز شمام 😂
+@withyashar
+</div>
+
+## WithYashar — post 11208
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزیر خزانه‌داری آمریکا:
+تأسیسات اصلی بارگیری نفت ایران به مدت ۳ روز است از سرویس خارج شده است
+@withyashar
+</div>
+
+## WithYashar — post 11207
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرنگار صداوسیما به نقل از نیروی دریایی سپاه: از شب گذشته تاکنون ۳۰ فروند کشتی از تنگه هرمز با مجوز ایران عبور کرده‌اند
+@withyashar
+</div>
+
+## WithYashar — post 11206
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شی جین‌پینگ: چین و ایالات متحده هر دو از همکاری سود می‌برند و از تقابل زیان می‌بینند.
+
+دو کشور ما باید شریک باشند نه رقیب.
+@withyashar
+</div>
+
+## WithYashar — post 11205
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ از رئیس‌جمهور چین برای سفر به ایالات متحده در ماه سپتامبر آینده دعوت کرد
+@withyashar
+</div>
+
+## WithYashar — post 11204
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آکسیوس: یکی از گزینه‌های ترامپ پس از بازگشت از چین از سر گیری پروژه آزادی در تنگه هرمز است. گزینه دیگر ترامپ حمله به زیرساخت‌های ایرانه.
+@withyashar
+</div>
+
+## WithYashar — post 11203
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+طبق برنامه ای که قرار داده بودیم ترامپ و رییس‌جمهور چین برای یک مهمانی شام با یکدیگر دیدار کردند @withyashar
+</div>
+
+## WithYashar — post 11202
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11202_1778758541.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+برنامه های ترامپ با حاکم چین به این ترتیبه : مراسم استقبال تو تالار بزرگ خلق چهارشنبه رسیدن به پکن ، استقرار و استراحت پنج شنبه ۱۴ مه - ملاقات با شی - ضیافت دولتی با شی جمعه تاریخ ۱۵ مه - جلسه عکس با شی- چای با شی - ناهار با شی و حرکت از پکن به آمریکا، @withyashar
+</div>
+
+## WithYashar — post 11201
+
+
+
+
+## WithYashar — post 11200
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فارس: عبور کشتی‌های چینی از تنگۀ هرمز از شب گذشته اغاز شده
+@withyashar
+یک کشتی ژاپنی هم اجازه عبور گرفت
+</div>
+
+## WithYashar — post 11199
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کاخ سفید اعلام کرد در دیدار ترامپ و شی جین‌پینگ، دو طرف بر باز ماندن تنگه هرمز و تقویت همکاری‌های اقتصادی توافق کردند. این توافق شامل افزایش سرمایه‌گذاری چین در صنایع آمریکا و گسترش دسترسی شرکت‌های آمریکایی به بازار چین است.
+
+ترامپ: مذاکرات پکن بسیار مثبت و سازنده بود
+@withyashar
+</div>
+
+## WithYashar — post 11198
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+با رفیق اروپاییم نشستیم داریم ویدیو مسیج های شما رو نگاه میکنیم براش ترجمه میکنم که داری چی میگی، بعد یهو میگه اینجا چی گفت، خب من چجوری گربه گیر رو ترجمه کنم😂😂😂😂😂 عشقی سلطان یاشار❤️❤️
+</div>
+
+## WithYashar — post 11197
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+با رفیق اروپاییم نشستیم داریم ویدیو مسیج های شما رو نگاه میکنیم براش ترجمه میکنم که داری چی میگی، بعد یهو میگه اینجا چی گفت، خب من چجوری گربه گیر رو ترجمه کنم😂😂😂😂😂
+عشقی سلطان یاشار❤️❤️
+</div>
+
+## WithYashar — post 11196
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11196_1778758543.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## mwarmonitor — post 9074
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9074_1778758546.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## mwarmonitor — post 9073
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸وزیر خزانه‌داری ایالات متحده، بَسِنت، درباره ایران گفت:
+«ما معتقدیم به نقطه‌ای رسیده‌ایم که ایران نه به سربازانش حقوق می‌دهد و نه ذخایر تسلیحاتی خود را از خارج تأمین و تجدید می‌کند.»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9072
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9072_1778758548.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸عالم مبارز بحرینی: آل خلیفه اگر از خصومت با ملت بحرین دست برندارند، ساقط خواهند شد
+
+🔹«عبدالله الدقاق» به‌دنبال تشدید سرکوبگری رژیم آل‌خلیفه در قالب شکنجه، پیگرد و سلب تابعیت شهروندان بحرینی به ویژه علما و مداحان، یک نشست مطبوعاتی برگزار کرد.
+
+📝در این قاب، با موجودی روبه‌رو هستیم که با وقاحت تمام، ژستِ حق‌به‌جانب گرفته و برای دیگران حکم سقوط صادر می‌کند. این انتر که به اسم «عالم مبارز» معرفی شده، در واقع یک گوریلِ قلمروطلب است که بوی گندِ تفکراتش حتی از پشت عکس هم به مشام می‌رسد؛ موجودی که دقیقاً مثل اجداد وحشی‌اش در ۱۴۰۰ سال پیش، تنها هنرش تبدیل «علم» به ابزاری برای کشت و کشتار و سلاخیِ منتقدان است. این آخوند صادراتی، در حالی که خودش تجسمِ شکنجه و سلب آزادی است، با وقاحتی بی‌مرز از «حقوق بشر» دم می‌زند تا روی ماهیت کثیف و فرقه‌ای خود سرپوش بگذارد . فاجعه اینجاست که این جانور، هر نکبت و فلاکتی را به پروژه‌های خارجی ربط می‌دهد، در حالی که خودش و آن عمامه‌ی ننگینش، بزرگ‌ترین ویروس برای موجودیت و امنیت بشریت هستند.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9071
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇨🇳🇺🇸دونالد ترامپ، رئیس‌جمهور چین، شی جین‌پینگ را برای بازدید از کاخ سفید در تاریخ ۲۴ سپتامبر دعوت کرد.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9070
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝از "هزار پدر" تا "بی‌پدر": وقتی شی‌جین‌پینگ با یک لبخند به ترامپ، یتیم‌خانه‌ی سایبری‌ها را به آتش می‌کشد.
+
+🔰وقاحتِ این جماعتِ جیره‌خوار زمانی به اوج می‌رسد که می‌بینند «پدرِ معنوی‌شان» در پکن، برای همان ترامپی که شب و روز در رویاهایشان ترورش می‌کردند، فرشِ قرمز پهن کرده و با شکوهی بی‌سابقه از او پذیرایی می‌کند. حالا که سوزشِ این حقیقتِ عریان به جانشان افتاده، طبقِ معمولِ آن ذاتِ دروغ‌گویشان، به آب و آتش می‌زنند تا با روایت‌هایِ مضحک، این «تعظیمِ دیپلماتیکِ چین» را به عنوانِ «تحقیرِ آمریکا» به خوردِ مخاطبِ مفلوکشان بدهند. این اراذلِ سایبری که هنوز فرقِ میانِ "نزاکتِ ابرقدرت‌ها" و "نوکریِ حقیرانه" را نمی‌فهمند، سعی دارند با واژه‌هایی مثل «دیکته کردنِ دیپلماسی»، رویِ این واقعیت سرپوش بگذارند که چین، برخلافِ تصورِ این‌ها، به دنبالِ تجارت با کدخداست، نه گداییِ رفاقت با یک نظامِ منزوی و ورشکسته.
+
+🔸تصویرِ ترامپ در شهرِ ممنوعه، برای این هزارپدرانِ نظام مثلِ پاشیدنِ نمک روی زخمِ "عزتِ نداشته‌شان" است؛ آن‌ها که کلِ دیپلماسی‌شان به گشت‌زنی در مخروبه‌های ونزوئلا و گرفتنِ عکسِ یادگاری با شبه‌نظامیانِ گمنام خلاصه شده، حالا چنان از استقبالِ باشکوهِ شی‌جین‌پینگ از ترامپ گیج شده‌اند که از شدتِ استیصال، به هذیان‌گویی روی آورده‌اند. چقدر باید یک موجود حقیر باشد که ببیند اربابش دارد با دشمنِ خونی‌اش در بالاترین سطحِ ممکنِ تشریفات لبخند می‌زند و ناهار می‌خورد، اما باز هم با وقاحتِ تمام رو به دوربین کند و بگوید: «نه، ببینید چطور با کلاسِ بالا ترامپ را تحقیر کردند!». این اوجِ حقارتِ یک "برده‌ی فکری" است که حتی وقتی صاحبش او را نادیده می‌گیرد و با رقیب دستِ دوستی می‌دهد، باز هم دنبالِ راهی می‌گردد تا از این فضاحت، یک "پیروزیِ خیالی" بسازد. حقیقت این است که دنیای واقعیِ قدرت، فرسنگ‌ها با حجره‌های تاریکِ پروپاگاندای این‌ها فاصله دارد و این جیره‌خوارانِ مفلوک، تنها چیزی که از این استقبالِ باشکوه نصیبشان شده، دود و سوزشی است که هیچ "دیپلماسیِ چینی" قادر به خاموش کردنش نیست.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9069
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9069_1778758549.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇮🇳هند اعلام کرد که یک کشتی با پرچم هند روز چهارشنبه در سواحل عمان مورد حمله قرار گرفته است.
+🚢این کشتی پیدا نشده و احتمالاً با سامانه AIS خاموش در حال تردد بوده است. همچنین از چند هفته پیش یک ناو جنگی هندی برای حفاظت از کشتی‌های این کشور در دریای عمان مستقر است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9068
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9068_1778758550.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️📡 هواپیمای P-8A پوزایدون نیروی دریایی US Navy در سواحل پاکستان فعال بوده و احتمالاً در حال پایش نفتکش‌های ایرانی لنگرگرفته در آن منطقه بوده است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341715
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341715_1778758550.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH: @BretBaier goes inside a Beijing convenience store to test out their new humanoid robot worker. It's moving a little slow for now, but with 50 different locations already active, China is making a massive play for AI dominance. | @SpecialReport
+</div>
+
+## FoxNewsTwitter — post 341714
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341714_1778758553.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump gives a toast to President Xi and invites him to the White House for an official visit in September:
+
+"Thank you again, President Xi, for this beautiful welcome... It is my honor to extend an invitation to you and Madam Peng to visit us at the White House, September 24th, and we look forward to it."
+
+"I now like to raise a glass and propose a toast to the rich and enduring ties between the American and Chinese people. It's a very special relationship, and I want to thank you again. This has been an amazing period of time. Thank you, President Xi."
+</div>
+
+## FoxNewsTwitter — post 341713
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341713_1778758555.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+HAPPENING NOW: "The relationship between the American and Chinese people goes all the way back to America's founding. The first American consul to China, Samuel Shaw, arrived on the first American trading ship to reach these shores in 1784."
+
+"Two and a half centuries later, that first connection has grown into one of the most consequential relationships in world history." - President Trump
+</div>
+
+## FoxNewsTwitter — post 341712
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341712_1778758557.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: "From the beginning, our citizens have shared a deep sense of mutual respect.
+
+"Founding Father Benjamin Franklin published The Sayings of Confucius and his colonial newspaper and today sculpture. Recognizing that ancient Chinese sage is carved into the face of the United States Supreme Court very proudly." –President Trump
+</div>
+
+## FoxNewsTwitter — post 341711
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @SpecialReport: 🚨WATCH: "Big Brother is watching."
+
+Our team with @BretBaier is on the ground in Beijing, and the level of surveillance is unlike anything we’ve seen. From 20+ cameras on a single street corner to instant fines sent straight to your phone, the CCP sees everything. They call it "safety"—but what’s the real cost of social scoring?
+</div>
+
+## FoxNewsTwitter — post 341710
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341710_1778758559.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump highlights the special relationship between the United States and China:
+
+“The American and Chinese people share much in common. We value hard work. We value courage and achievement. We love our families and we love our countries.”
+
+“Together, we have the chance to draw on these values, to create a future of greater prosperity, cooperation and happiness and peace for our children."
+</div>
+
+## FoxNewsTwitter — post 341709
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341709_1778758561.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: "This is a great honor. It was a fantastic day.
+
+"I want to thank President Xi, my friend, for this magnificent welcome."
+
+"It really was a magnificent welcome like none other. And for so graciously hosting us on this very historic state visit."
+
+"This evening is another cherished opportunity to discuss among friends some of the things that we discussed today. All good for the United States and for China. And it was a great honor to be with you." – President Trump
+</div>
+
+## FoxNewsTwitter — post 341708
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341708_1778758563.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Xi welcomes President Trump to at the Chinese state banquet in Beijing:
+
+"Honorable president Donald J. Trump. Ladies and gentlemen, it is a great pleasure to host the state banquet in honor of President Trump during his state visit to China."
+
+"On behalf of the Chinese government and people, I would like to extend a warm welcome to President Trump and the US delegation."
+</div>
+
+## FoxNewsTwitter — post 341707
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341707_1778758565.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NOW: President Trump and President Xi arrive at the welcome state banquet in China, taking their seats as the event gets underway.
+</div>
+
+## FoxNewsTwitter — post 341706
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341706_1778758568.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: @seanhannity says President Trump’s meeting with Xi could lead to Chinese cooperation on Iran, oil, and soybean purchases benefiting American farmers.
+
+Telling @ainsleyearhardt his takeaways from the interview, Hannity says China appears ready to help with “whatever Trump needs” regarding Iran.
+
+He also said Xi was surprised when Trump invited him to meet with American CEOs, a move that made a strong impression on the Chinese leader.
+</div>
+
+## FoxNewsTwitter — post 341705
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341705_1778758571.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump participates in state banquet with Xi https://twitter.com/i/broadcasts/1OGwblEEdlRKB
+</div>
+
+## FoxNewsTwitter — post 341704
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341704_1778758572.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+SPOTTED: Elon Musk poses for pictures with Apple's Tim Cook at the Chinese state banquet in Beijing.
+
+Musk and Cook are just two of the major American CEOs joining President Trump on his trip to China for his historic summit with President Xi.
+</div>
+
+## pm_afshaa — post 90728
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر خزانه‌داری آمریکا: تأسیسات اصلی بارگیری نفت ایران به مدت 3 روز است از سرویس خارج شده
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90727
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴در حاشیه اجلاس سران در چین: رئیس‌جمهور ترامپ رئیس‌جمهور چین را برای بازدید از کاخ سفید در پایان سپتامبر دعوت کرد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90726
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فارس : عبور کشتی‌های چینی از تنگه هرمز با هماهنگی ایران آغاز شد
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90725
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90725_1778758574.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔥 ربات فروشگاه مردمی وینستون در خدمت شماست 
+🔥
+
+فروش کانفیگ ویتوری 
+🏳
+
+گیگی 195.000 تومان 
+☄️
+گیگی 250.000 تومان 
+☄️
+گیگی 280.000 تومان 
+☄️
+
+
+🔥 سرعت موشکی
+
+💎 ( پنل مشاهده حجم در ربات )
+لوکیشن بلغارستان و آلمان و ترکیه 
+🇧🇬
+🇩🇪
+🇹🇷
+
+
+‼️ برای خرید ربات رو استارت کنید 
+‼️
+
+BOT 
+📎 @WinstonLite_bot
+
+PV 
+✉️ @mosadeveloper
+
+CH 
+📣 https://t.me/winstonservice
+</div>
+
+## pm_afshaa — post 90724
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90724_1778758575.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آکسیوس: یکی از گزینه‌های ترامپ پس از بازگشت از چین از سر گیری پروژه آزادی در تنگه هرمز است. گزینه دیگر ترامپ حمله به زیرساخت‌های ایرانه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90723
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90723_1778758576.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فارس: با تصمیم جمهوری اسلامی عبور کشتی‌های چینی از تنگه هرمز آغاز شده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4629
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4629_1778758576.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺📌 در اواسط جنگ گزارش شد مسعود پزشکیان به دنبال استعفاست اما نهادهای نظامی و امنیتی مخالف‌اند، اکنون گزارش‌های رسیده به دژ از تشدید اختلافات در سطوح عالی حکومت و افزایش فشارها علیه دولت مسعود پزشکیان حکایت دارد؛ تحولاتی که هم‌زمان با عمیق‌تر شدن بحران اقتصادی و افزایش نارضایتی‌های عمومی در ایران رخ می‌دهد.
+
+بر اساس این گزارش‌ها، شماری از مقام‌های ارشد حکومتی از جمله نظامی‌ها با ابراز بی‌اعتمادی نسبت به سیاست‌ها و اصلاحات اقتصادی مسعود پزشکیان، دولت او را مسئول افزایش فشارهای معیشتی، تورم و نارضایتی اجتماعی می‌دانند.
+
+منابع نزدیک به ساختار قدرت همچنین از آغاز رایزنی‌هایی با برخی وزیران و جریان‌های سیاسی برای تضعیف جایگاه رئیس‌جمهور یا بررسی سناریوی تغییر دولت خبر می‌دهند.
+
+این تحولات در شرایطی رخ می‌دهد که اقتصاد ایران با کاهش ارزش پول ملی، گرانی گسترده کالاهای اساسی و افزایش بیکاری روبه‌روست؛ وضعیتی که موج تازه‌ای از نارضایتی‌های اجتماعی را در کشور ایجاد کرده است.
+
+#پزشکیان #اقتصاد_ایران
+@DEJradio
+</div>
+
+## kianmeli1 — post 87401
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‏🔴شی جین‌پینگ، رییس‌جمهوری چین، در ضیافت رسمی به افتخار ترامپ گفت که دو کشور باید شریک باشند، نه رقیب
+
+‏شی جین‌پینگ گفت که دو شعار «نوزایی چین» و «عظمت را دوباره به آمریکا بازگردانیم» می‌توانند در کنار یکدیگر پیش بروند
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87400
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بلومبرگ: ۴ روز است که از خارک بارگیری نفت نمی‌شود و اسکله‌های نفتی کاملاً خالی است
+
+صادرات نفت از جزیره خارک برای نخستین بار از آغاز جنگ، چند روز متوقف شد
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87399
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87399_1778758577.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ از شی دعوت کرد تا در 24 سپتامبر به آمریکا سفر کند.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87398
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87398_1778758580.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴صداوسیما
+
+از دیشب عبور ۳۰ کشتی از تنگه هرمز انجام پذیرفته است
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87397
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87397_1778758581.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴در پی انتشار گزارش‌هایی مبنی بر بلند شدن دود از منطقه صنایع نفتی فجیره، دفتر رسانه‌ای فجیره اعلام کرد که این دود به دلیل تعمیرات مداوم یک خط لوله است.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87396
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87396_1778758582.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴طبق اعلام مرکز عملیات تجارت دریایی بریتانیا (UKMTO)، حادثه‌ای در ۳۸ مایلی شمال شرقی فجیره، امارات متحده عربی رخ داده است که در آن یک کشتی توقیف و به آب‌های ایران منتقل شده است. این احتمالاً توقیف دیگری از یک کشتی توسط سپاه پاسداران انقلاب اسلامی است.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87395
+
+<div align="center">
+  <img src="telegram/content/kianmeli1_87395_1778758583.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کاخ سفید پس از مذاکرات دوجانبه ایالات متحده و چین در پکن، پایتخت چین، در بیانیه‌ای اعلام کرد که دو هیئت در مورد مسائلی مانند دسترسی به بازار چین، سرمایه‌گذاری چین در صنایع ایالات متحده، مواد مخدر، به ویژه فنتانیل، «جریان آزاد» تجارت از طریق تنگه هرمز و سایر مسائل کلیدی گفتگو کردند.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87394
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آکسیوس : یکی از گزینه‌های ترامپ پس از بازگشت از چین از سر گیری پروژه آزادی در تنگه هرمز است.گزینه دیگر ترامپ حمله به زیرساخت‌های ایران است.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 337159
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337159_1778758584.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای پنجشنبه ۲۴ اردیبهشت
+@iranintltv
+</div>
+
+## IranIntlTV — post 337158
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337158_1778758585.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایران‌اینترنشنال از همه افرادی که درباره وقایع بیمارستان الغدیر تهران در ۱۸ و ۱۹ دی‌ماه شواهد، اسناد یا اطلاعاتی دارند خواسته است از طریق بات اینتل‌مدیا، اطلاعات خود را ارسال کنند.
+
+جزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337157
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337157_1778758588.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فیلم «داستان‌های موازی» ساخته اصغر فرهادی، به‌طور رسمی در بخش مسابقه اصلی جشنواره کن به نمایش درمی‌آید. سینمای مستقل، مهاجرت، تبعید و حضور فیلمسازان ایرانی در بخش‌های مختلف، از محورهای مورد توجه جشنواره امسال است.
+لی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 337156
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337156_1778758591.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسینعلی حاجی‌دلیگانی، عضو هیات رییسه مجلس، گفت که ادامه مذاکره با آمریکا اشتباه است و افزود واشینگتن برای آتش‌بس اصرار داشته و به دنبال خرید زمان با اهداف داخلی و انتخاباتی بوده است.
+
+حاجی‌دلیگانی افزود: «خطوط فیبر نوری عبوری از بستر تنگه هرمز نیز باید شامل عوارض سالانه باشند.»
+
+او گفت: «کل تنگه هرمز در حوزه سرزمینی ایران قرار می‌گیرد و مدیریت آن باید در اختیار جمهوری اسلامی باشد.»
+iranintl.com/202605145331
+</div>
+
+## IranIntlTV — post 337154
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻بازدید مسعود پزشکیان، رئیس دولت جمهوری اسلامی و احمد دنیامالی، وزیر ورزش و جوانان از مجموعه ورزشی آزادی.
+
+🔹در هفته اول جنگ، ایران‌اینترنشنال گزارش داد که پس از آغاز حملات اسرائیل و آمریکا در نهم اسفندماه، به کارکنان و پرسنل فدراسیون‌ها و مراکز مستقر در مجموعه ورزشی آزادی در تهران دستور داده شد  ساختمان‌ها و سالن‌های ورزشی این مجموعه را تخلیه کنند.
+
+🔹طبق این اطلاعات، پس از تخلیه کارکنان، نیروهای حکومتی از جمله یگان ویژه و بسیج در بخش‌های مختلف این مجموعه مستقر شدند.
+
+🔹پس از این ماموران در سالن‌های مختلف از جمله ورزشگاه ۱۲ هزار نفری آزادی و همچنین سالن‌ها و ساختمان‌های متعلق به فدراسیون‌های ورزشی از جمله کشتی، والیبال، بسکتبال و وزنه‌برداری مستقر شدند.
+
+🔹در پی این اقدامات، سالن ۱۲ هزار نفری ورزشگاه آزادی در حملات هوایی روز پنجشنبه ۱۴ اسفند ۱۴۰۴، تخریب شد.
+
+@iranintltvsport
+</div>
+
+## IranIntlTV — post 337153
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337153_1778758592.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بیمارستان الغدیر تهران شامگاه ۱۸ و ۱۹ دی‌ماه، شاهد گوشه‌ای از جنایتی بود که جمهوری اسلامی علیه معترضان مرتکب شد. ده‌ها پیکر بی‌جان و شمار زیادی از مجروحان به این بیمارستان منتقل شدند و به دلیل کمبود فضای سردخانه، تعدادی از کشته‌شدگان، پتوپیچ در حیاط پشت بیمارستان رها شدند. ایران‌اینترنشنال با هدف روشن کردن ابعاد جنایت در بیمارستان الغدیر تهران در ۱۸ و ۱۹ دی‌ماه، کارزاری مردمی برای شناسایی جاویدنامانی که به این بیمارستان منتقل شده بودند راه‌اندازی کرده و تاکنون هویت ۹ نفر از آن‌ها را شناسایی کرده است.
+از همه افرادی که درباره وقایع بیمارستان الغدیر تهران شواهد، اسناد یا اطلاعاتی دارند می‌خواهیم از طریق بات اینتل‌مدیا، اطلاعات خود را ارسال کنند و راوی حقیقت باشند.
+
+گزارش آبتین یزدان‌پناه، خبرنگار ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337152
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337152_1778758594.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دانشجویان متحد گزارش داد متین زمانیان، دانشجوی کارشناسی علوم سیاسی دانشگاه آزاد تهران مرکز، با گذشت بیش از یک‌ماه از بازداشت، در زندان تهران بزرگ نگهداری می‌شود.
+
+بنا بر این گزارش متین زمانیان در طول دوران بازداشت، از حق دسترسی به وکیل مستقل و دادرسی عادلانه محروم مانده است.
+iranintl.com/202605143017
+</div>
+
+## IranIntlTV — post 337151
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337151_1778758595.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت هم‌زمان با سفر دونالد ترامپ به پکن، انتظار می‌رود چین سفارش‌های بزرگی برای خرید هواپیما از شرکت بوئینگ ثبت و اعلام کند.
+
+به گفته او، مذاکرات میان واشینگتن و پکن علاوه بر صنعت هوانوردی، حوزه‌هایی مانند انرژی و محصولات کشاورزی را نیز در بر خواهد گرفت.
+
+بسنت همچین به مناقشه تایوان پرداخت و افزود: «ترامپ حساسیت‌های مربوط به این موضوع را درک می‌کند.»
+
+به گفته وزیر خزانه‌داری آمریکا، ترامپ «در روزهای آینده» درباره این مساله صحبت خواهد کرد.
+https://iranintl.com/202605141039
+</div>
+
+## IranIntlTV — post 337150
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«#چشم‌انداز با مهدی مهدوی‌آزاد»؛ شنبه تا چهارشنبه ساعت ۲۱:۰۰ تهران
+
+بررسی آخرین رویدادهای سیاسی، فرهنگی و اجتماعی با حضور کارشناسان.
+@iranintltv
+</div>
+
+## IranIntlTV — post 337149
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337149_1778758596.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، پس از سخنان شی جین‌پینگ در ضیافت رسمی در پکن پشت تریبون رفت و از استقبال انجام‌شده قدردانی کرد. او استقبال از خود در پکن را «افتخاری بزرگ» توصیف کرد و از شی جین‌پینگ «برای این استقبال باشکوه» تشکر کرد.
+
+ترامپ گفت: «امروز گفت‌وگوها و دیدارهای بسیار مثبت و سازنده‌ای با هیات چینی داشتیم و این ضیافت نیز فرصتی ارزشمند است تا در جمع دوستان درباره برخی از موضوعاتی که امروز مطرح کردیم گفت‌وگو کنیم.»
+
+رییس‌جمهوری آمریکا همچنین روابط ایالات متحده و چین را «یکی از تاثیرگذارترین روابط در تاریخ بشر» خواند.
+</div>
+
+## IranIntlTV — post 337148
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337148_1778758597.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عترشی جین‌پینگ، رهبر چین، در آغاز ضیافت شام رسمی با دونالد ترامپ با بلند کردن جام خود به او و هیات آمریکایی خوشامد گفت و بر ضرورت همکاری میان دو کشور تاکید کرد. رهبر چین تاکید کرد: «دو کشور ما باید شریک باشند، نه رقیب.»
+
+شی در سخنان خود به سال ۲۰۲۶ به عنوان دویست‌وپنجاهمین سالگرد اعلامیه استقلال آمریکا اشاره کرد و گفت: «مردم چین و ایالات متحده هر دو ملت‌های بزرگی هستند.»
+
+او افزود: «تحقق احیای بزرگ ملت چین و عظمت دوباره آمریکا می‌تواند همزمان پیش برود. ما می‌توانیم به موفقیت یکدیگر کمک کنیم و رفاه کل جهان را ارتقا دهیم.»
+</div>
+
+## IranIntlTV — post 337147
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337147_1778758597.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاطمه وحدت، نایب‌رییس اتحادیه زنان کارگر سراسر ایران گفت: «نشانه‌های گسترش فقر در جامعه مشهود است. این روزها آدم‌ها را می‌بینیم که حتی برای خرید نان دچار مشکل هستند. این‌ها نشانه‌های کوچکی نیستند. شاید ساده به نظر برسند، اما اگر جدی گرفته نشوند، بعدها به معضل بزرگ اجتماعی تبدیل می‌شوند.»
+
+او افزود: «در شرایط بحرانی، زنان کارگر بیش از دیگران در معرض اخراج قرار می‌گیرند؛ به‌ویژه زنانی که سرپرست خانوار هستند و مسئولیت مستقیم تامین معاش خانواده را برعهده دارند، در اثر این اخراج بیشترین آسیب را متحمل می‌شوند.»
+
+وحدت ادامه داد: «همه از این شرایط خبر دارند، اما مسئله این است که نظارت جدی وجود ندارد.»
+https://iranintl.com/202605143396
+</div>
+
+## IranIntlTV — post 337146
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337146_1778758598.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری آمریکا گفت بازگشایی تنگه هرمز به نفع چین است و پکن هر کاری بتواند برای بازگشایی این آبراه انجام خواهد داد.
+
+او در مصاحبه با سی‌ان‌بی‌سی تاکید کرد چین پشت صحنه و تا جایی که بر جمهوری اسلامی نفوذ داشته باشد، برای بازگشایی تنگه هرمز همکاری خواهد کرد.
+https://iranintl.com/202605140954
+</div>
+
+## IranIntlTV — post 337145
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337145_1778758599.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻فریده شجاعی، نایب‌رییس بانوان فدراسیون فوتبال، در مراسم بدرقه تیم ملی در شامگاه چهارشنبه ۲۳ اردیبهشت گفت: «به تمامی اعضای هیات‌رییسه فدراسیون فوتبال اعلام شده در جام جهانی حضور داشته باشند.»
+
+🔹صحبت‌های شجاعی در حالی مطرح می‌شد که تیم ملی در فاصله کمتر از یک ماه تا آغاز جام‌جهانی با بحران ویزا و چالش مالی روبه‌رو است. هنوز ویزای ملی‌پوشان صادر نشده و کادر فنی نمی‌داند کدام بازیکن ویزا خواهد گرفت و به کدام بازیکن ویزا نخواهند داد.
+
+🔹احتمال دارد برای برخی اعضای کاروان ایران به دلیل سوابق فعالیت یا ارتباط با سپاه پاسداران، ویزا صادر نشود.
+@iranintltvsport
+</div>
+
+## IranIntlTV — post 337143
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337143_1778758600.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرگزاری فارس، وابسته به سپاه پاسداران به نقل از «منبع آگاه» نوشت: «با تصمیم جمهوری اسلامی، عبور شماری از کشتی‌های چینی از تنگه هرمز، از شامگاه چهارشنبه، ۲۳ اردیبهشت و پس از توافق بر سر پروتکل‌های مدیریت جمهوری اسلامی بر این آبراه آغاز شده است.»
+
+بر اساس این گزارش، این تصمیم پس از پیگیری‌های مقام‌های چین و در چارچوب «روابط راهبردی» تهران و پکن اتخاذ شد و کشتی‌های مورد درخواست چین اجازه عبور یافتند.
+https://iranintl.com/202605149673
+</div>
+
+## IranIntlTV — post 337142
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337142_1778758601.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همزمان با موج تازه بیکاری در شرایط جنگی و بحران اقتصادی، آمارهای رسمی نشان می‌دهد حدود ۲۰۰ هزار نفر متقاضی دریافت بیمه بیکاری هستند. روزنامه شرق در گزارشی نوشت روند دریافت بیمه بیکاری از سازمان تامین اجتماعی به مسیری دشوار برای متقاضیان تبدیل شده است.
+گفت‌وگو با اشکان نظام‌آبادی، روزنامه‌نگار اقتصادی
+@iranintltv
+</div>
+
+## IranIntlTV — post 337141
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337141_1778758603.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عباس عراقچی، وزیر خارجه جمهوری اسلامی که برای شرکت در اجلاس بریکس، به دهلی نو سفر کرده، گفت: «امارات متحده عربی مستقیما در جنگ علیه ما دخیل بود.»
+او خطاب به اماراتی‌ها گفت: «ائتلاف با اسرائیل هم از شما محافظت نکرد.»
+
+عراقچی ادامه داد: «اماراتی‌ها اجازه دادند از سرزمین‌شان برای شلیک توپخانه و تجهیزات علیه ما استفاده شود.»
+
+وزیر خارجه جمهوری اسلامی افزود: «امارات متحده عربی شریک فعال جنگ علیه ماست و هیچ تردیدی در این باره وجود ندارد و ما شگفت‌زده شدیم که برادران ما در امارات متحده عربی تصمیم گرفتند فعالانه به جنگ علیه ما بپیوندند.»
+
+عراقچی تاکید کرد: «همدستی امارات متحده عربی با اسرائیل غیرقابل بخشش است.»
+https://iranintl.com/202605148778
+</div>
+
+## Shin_Persian — post 5996
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5996_1778758604.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+UKMTO Operations Centre @UK_MTO
+Thu, 14 May 2026 07:00:22 UTC
+
+UKMTO WARNING 057-26
+
+Click here to view the full warning⤵️
+http://www.ukmto.org/-/media/ukmto/products/20260514-ukmto_057_26_warning_suspicious-activity.pdf?rev=67da24ed8b4f43389506d6abbb5fb841
+
+#MaritimeSecurity #MarSec
+
+فارسی
+
+هشدار UKMTO 057-26
+
+برای مشاهده متن کامل هشدار اینجا کلیک کنید⤵️
+http://www.ukmto.org/-/media/ukmto/products/20260514-ukmto_057_26_warning_suspicious-activity.pdf?rev=67da24ed8b4f43389506d6abbb5fb841
+
+#MaritimeSecurity #MarSec_
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105441
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105441_1778758605.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معین، خواننده شهیر در صفحه اینستاگرام خود با انتشار متنی، شایعات مطرح شده در خصوص اجرا برای تیم فوتبال در جام جهانی را تکذیب کرد. معین در متن خود از جمله نوشته: «عشق من به مردم و سرزمینم همیشه واقعی بوده. اما صدای من زمانی معنا دارد که دل مردم آرام باشد و حال ایران خوب»
+روز گذشته اظهارات مهدی تاج، رئیس فدراسیون فوتبال جمهوری‌اسلامی به شایعاتی از این دست دامن زده بود.
+</div>
+
+## ManotoTV — post 105440
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105440_1778758605.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی تاج، رئیس فدراسیون فوتبال جمهوری‌اسلامی گفته «مسئله ویزا حل نشده و هنوز هیچ روادیدی برای اعضای تیم ملی فوتبال ایران صادر نشده است.» و افزوده «منتظریم ببینیم رفتار طرف مقابل چیست.»
+او از «جلسه سرنوشت‌ساز» با فیفا صحبت به میان آورده چرا که به گفته تاج فیفا «باید به ما گارانتی بدهد»
+</div>
+
+## ManotoTV — post 105439
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105439_1778758606.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه نیویورک‌تایمز گزارش داد نهادهای اطلاعاتی آمریکا معتقدند شرکت‌های چینی درباره ارسال مخفیانه تسلیحات به جمهوری اسلامی از طریق کشورهای ثالث گفت‌وگو کرده‌اند تا منشأ این محموله‌ها پنهان بماند.
+این گزارش ساعاتی پس از ورود دونالد ترامپ به پکن منتشر شد و می‌تواند فشارها بر رئیس‌جمهوری آمریکا را برای درخواست از شی جین‌پینگ به‌منظور قطع حمایت از جمهوری اسلامی افزایش دهد.
+بر اساس این گزارش، مقام‌های آمریکایی بر سر این‌که آیا این انتقال‌ها بالفعل انجام شده یا نه اختلاف نظر دارند، اما گفته‌اند چنین اقداماتی بعید است بدون اطلاع مقام‌های ارشد چینی صورت گرفته باشد.
+رسانه‌های آمریکایی پیش‌تر نیز گزارش داده بودند چین موشک‌های دوش‌پرتاب ضدهوایی به جمهوری اسلامی ارسال کرده است؛ تسلیحاتی که می‌توانند هواپیماها و پهپادها را هدف قرار دهند. همچنین گفته می‌شود تهران در سال ۲۰۲۴ یک ماهواره جاسوسی چینی دریافت کرده که برای شناسایی نیروهای آمریکایی در خاورمیانه از آن استفاده می‌کند.
+در همین حال، گزارش‌هایی از بازسازی توان موشکی جمهوری اسلامی پس از حملات آمریکا و اسرائیل منتشر شده است. بر اساس ارزیابی سازمان سیا، بخش قابل توجهی از موشک‌های بالستیک و پرتابگرهای متحرک ایران همچنان سالم مانده‌اند.
+</div>
+
+## ManotoTV — post 105437
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105437_1778758608.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بانک مرکزی ترکیه هدف تورم پایان سال ۲۰۲۶ را از ۱۶ به ۲۴ درصد افزایش داد و اعلام کرد پیامدهای جنگ ایران و اسرائیل و افزایش تنش‌ها در خاورمیانه، فشارهای تورمی را تشدید کرده است. رئیس بانک مرکزی ترکیه گفت افزایش بهای انرژی و اختلال در عرضه، به‌ویژه برای اقتصادهای وابسته به واردات مانند ترکیه، یک ریسک جدی محسوب می‌شود. این بانک همچنین پیش‌بینی تورم پایان ۲۰۲۷ را از ۹ به ۱۵ درصد افزایش داد. نرخ تورم ماهانه ترکیه در آوریل به بیش از ۴ درصد و تورم سالانه به حدود ۳۲ درصد رسید.
+</div>
+
+## ManotoTV — post 105436
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105436_1778758608.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در یک هشدار امنیتی اعلام کرد یک کشتی در دریای عمان، در حالی که در لنگرگاه قرار داشت، توسط «افراد غیرمجاز» تصرف شده و اکنون به سمت آب‌های سرزمینی ایران در حرکت است.
+بر اساس هشدار رسمی UKMTO، این حادثه حدود ۳۸ مایل دریایی شمال شرقی فجیره امارات متحده عربی رخ داده است. هویت کشتی و جزئیات بیشتر درباره مهاجمان هنوز اعلام نشده است.
+این نهاد بریتانیایی اعلام کرد در حال بررسی موضوع است و از همه شناورها خواسته هرگونه فعالیت مشکوک را فورا گزارش دهند.
+هشدار صبح امروز چهارشنبه منتشر شده و نشان‌دهنده یک رخداد امنیتی تازه و حساس در آبراه‌های منطقه است.
+اگرچه این نهاد هنوز درباره عاملان احتمالی این حادثه اظهار نظر نکرده، اما چنین هشدارهایی معمولا در موارد مرتبط با توقیف کشتی‌ها، دزدی دریایی یا عملیات نیروهای نظامی و شبه‌نظامی در منطقه صادر می‌شود.
+</div>
+
+## FarsiVOA — post 217715
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شی جین‌پینگ، رئیس جمهوری چین، روز پنج‌شنبه طی سخنانی که در مهمانی شام رسمی که به افتخار پرزیدنت ترامپ در پکن برگزار شد، این دیدار را «تاریخی» دانست و به روابط تاریخی دو کشور اشاره کرد.
+</div>
+
+## FarsiVOA — post 217714
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺۱۸۰۰ ساعت خاموشی اینترنت؛ ایران زیر سایه اینترنت طبقاتی
+
+▪️قطع گسترده اینترنت در ایران وارد روز هفتاد و ششم شده و شهروندان همچنان با محدودیت شدید ارتباطی روبه‌رو هستند؛ وضعیتی که پیامدهای اجتماعی و اقتصادی آن رو به افزایش است.
+
+▪️نت‌بلاکس در گزارش روز پنجشنبه اعلام کرد شهروندان ایرانی بیش از هزار و ۸۰۰ ساعت است که با محدودیت شدید یا قطع کامل دسترسی به اینترنت مواجه‌اند.
+
+▪️مقام‌های دولتی جمهوری اسلامی از یک طرف بر استفاده مردم از اینترنت تأکید می‌کنند، اما از دیگر سو، بیش از ۷۵ روز است که شهروندان ایرانی را در حصر دیجیتال قرار داده‌اند. وضعیتی که هیچ چشم‌اندازی برای برون‌رفت از آن نیست.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8149927.html
+</div>
+
+## FarsiVOA — post 217713
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217713_1778758609.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه شرق با اشاره به «افزایش اخراج کارگران» و «شرایط غیرمعقول دریافت بیمه بیکاری»، در گزارشی نوشت: «این روزها بیمه بیکاری برای بسیاری از نیروهای تعدیل‌شده، نه یک حمایت اجتماعی، بلکه مسیری فرساینده و مبهم است.»
+
+هم‌زمان با موج تازه تعدیل نیرو در برخی رسانه‌ها، شرکت‌ها و مجموعه‌های تولیدی، شمار متقاضیان بیمه بیکاری افزایش یافته، اما بسیاری از متقاضیان از حمایت‌های لازم برخوردار نیستند.
+
+نداشتن قرارداد کاری یا در اختیار نداشتن نسخه‌ای از قرارداد، عدم پرداخت به موقع حق بیمه از سوی کارفرما، اشکالات فنی سامانه ثبت درخواست بیمه بیکاری، انتظارهای طولانی مدت برای بررسی پرونده و پاسخگو نبودن تأمین اجتماعی و وزارت کار از جمله مهم‌ترین مشکلاتی است که روزنامه شرق به آن اشاره کرده است.
+
+در این گزارش آمده است که روابط عمومی بیمه تأمین اجتماعی، مسئولیت مشکلات «ثبت درخواست بیمه بیکاری»را متوجه وزارت کار دانسته و در مقابل پروانه رضایی‌بختیاری، معاون روابط کار وزارت کار، علت را «پایین‌بودن سطح سواد دیجیتال برخی متقاضیان» بیان کرده است.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217712
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس جمهوری آمریکا، روز پنج‌شنبه طی سخنانی که در مهمانی شام رسمی که به افتخار او در پکن برگزار شده است، گفت که دو طرف «گفت‌وگوها و نشست‌های بسیار مثبت و سازنده‌ای» داشته‌اند. او رابطه آمریکا و چین را یکی از «سرنوشت‌سازترین روابط در تاریخ جهان» توصیف کرد.
+</div>
+
+## FarsiVOA — post 217711
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217711_1778758610.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزیر خارجه جمهوری اسلامی در نشست وزیران خارجه کشورهای عضو بریکس در دهلی نو، امارات متحده عربی را به «دخالت مستقیم در عملیات نظامی» علیه حکومت ایران متهم کرد.
+
+بر اساس گزارش خبرگزاری مهر، عباس عراقچی در پاسخ به اظهارات نماینده امارات گفت: «من در سخنرانی‌ خود نام امارات متحده عربی را ذکر نکردم، به خاطر حفظ وحدت و ترجیح دادم به آن اشاره نکنم. اما در واقع باید بگویم که امارات مستقیماً در اقدام تجاوزکارانه علیه کشور من دخیل بود. زمانی که این تجاوز آغاز شد، آنها حتی از محکوم کردن آن خودداری کردند.»
+
+بر اساس این گزارش، نماينده امارات در این نشست بر رعایت حقوق بین‌الملل تأکید کرده بود.
+
+در روزهای اخیر، رسانه‌های بین‌المللی گزارش دادند که امارات متحده عربی در جریان جنگ، با هماهنگی اسرائیل حملاتی را علیه تأسیسات انرژی ایران انجام داد.
+
+این حملات در واکنش به حملات جمهوری اسلامی علیه امارات در جریان جنگ صورت گرفت. امارات در میان دیگر کشورهایی که جمهوری اسلامی به آنها حمله کرد، بیشترین تعداد حمله را متحمل شد.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217710
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_217710_1778758611.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ارتش اسرائیل اعلام کرد که روز پنجشنبه موجی از حملات هوایی را علیه سایت‌های زیرساختی حزب‌الله در چندین منطقه در جنوب لبنان آغاز کرده است.
+
+کمی قبل از بیانیه ارتش اسرائیل، هشدارهای تخلیه برای هشت روستا در جنوب لبنان صادر شده بود.
+
+همزمان، ارتش اسرائیل پنجشنبه اعلام کرد که یک پهپاد انفجاری که توسط حزب‌الله پرتاب شده بود در داخل خاک اسرائیل و در نزدیکی مرز اسرائیل-لبنان سقوط کرد.
+
+بر اساس این گزارش، چند غیرنظامی اسرائیلی زخمی شده و برای درمان به بیمارستان منتقل شدند.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217709
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺رویترز: جنگنده‌های سعودی در جریان جنگ، به شبه‌نظامیان عراق حمله کردند
+
+▪️خبرگزاری رویترز به نقل از چندین منبع مطلع گزارش داد که جنگنده‌های عربستان سعودی در جریان جنگ اخیر علیه جمهوری اسلامی، اهداف مرتبط با شبه‌نظامیان شیعه مورد حمایت تهران در عراق را بمباران کردند.
+
+▪️بر اساس این گزارش، این حملات سایت‌هایی را هدف قرار دادند که از آن‌ها حملات پهپادی و موشکی علیه عربستان سعودی و دیگر کشورهای خلیج فارس انجام می‌شد.
+
+▪️به گفته منابع آگاه، صدها پهپادی که کشورهای عربی خلیج فارس را در جریان جنگ اخیر هدف قرار دادند از عراق شلیک شده بودند.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8149921.html
+</div>
+
+## DW_Farsi — post 124681
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 آمریکا استقرار چهار هزار سرباز در اروپا را متوقف کرد
+
+بر اساس گزارش‌ها، وزارت دفاع (جنگ) آمریکا اعزام بیش از چهار هزار سرباز از یک تیپ رزمی به اروپا را متوقف کرده است. به نوشته روزنامه "وال‌استریت ژورنال" به نقل از یکی از مقامات پنتاگون، این تصمیم روز چهارشنبه ۱۳ مه در نشستی میان فرماندهی اروپایی نیروهای مسلح آمریکا (EUCOM) و بخش‌هایی از ارتش این کشور اعلام شد.
+
+قرار بود این نیروها برای مأموریتی ۹ ماهه در لهستان مستقر شوند.
+
+ارتش آمریکا در ماه مارس اعلام کرده بود که این تیپ رزمی قرار است در چارچوب یک برنامه دوره‌ای معمول، جایگزین نیروهای دیگر شود. اما اکنون انتقال بخشی از تجهیزات و حتی برخی سربازان که در مسیر اعزام بوده‌اند، به دلیل این تصمیم جدید به تعویق افتاده است؛ تصمیمی غیرمنتظره که گفته می‌شود بسیاری از اعضای ارتش آمریکا را غافلگیر کرده است.
+
+به نوشته وال‌استریت ژورنال، گرچه فرماندهی اروپایی آمریکا توصیه کرده بود که پس از پایان مأموریت دوره‌ای چندماهه، جایگزینی برای این ۴۰۰۰ سرباز در نظر گرفته نشود، اما خواهان توقف فوری اعزام نشده بود.
+
+@dw_farsi
+</div>
+
+## DW_Farsi — post 124680
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124680_1778758611.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 عراقچی در نشست بریکس خواهان "محکوم کردن آمریکا و اسرائیل" شد
+
+عباس عراقچی، وزیر خارجه جمهوری اسلامی که برای حضور در نشست بریکس به هند سفر کرده است، پنجشنبه ۱۴ مه (۲۴ اردیبهشت) در جریان سخرانی خود از "سیاست‌های یک‌جانبه‌گرایانه" آمریکا انتقاد و بر "ضرورت همکاری کشورهای عضو برای مقابله با نقض قوانین بین‌المللی و نقش‌آفرینی این گروه در شکل‌دهی به نظم جهانی عادلانه‌تر" تاکید کرد.
+
+او "زورگویی و سیاست‌های تحمیلی آمریکا" را مورد انتقاد قرار داد و همکاری کشورهای عضو برای مقابله با این رویکردها را ضروری خواند.
+
+وزیر امور خارجه ایران با اشاره به "نقض حاکمیت کشورها" و "استانداردهای دوگانه" در عرصه سیاست بین‌الملل افزود: «احساس مصونیت از مجازات در برخی قدرت‌ها موجب تداوم این اقدامات شده و باید این وضعیت با اقدام جمعی کشورها پایان یابد.»
+
+عراقچی از کشورهای عضو سازمان بریکس و دیگر اعضای جامعه جهانی خواست تا "نقض حقوق بین‌الملل از سوی آمریکا و اسرائیل، از جمله حمله علیه ایران" را صراحتا محکوم کرده و مانع از "سیاسی‌سازی نهادهای بین‌المللی" شوند.
+
+او در پایان تاکید کرد: «بریکس می‌تواند نقش مهمی در شکل‌دهی به نظمی جهانی عادلانه‌تر و متوازن‌تر ایفا کند؛ نظمی که در آن قدرت جایگزین قانون نشود و ملت‌های مستقل بتوانند مسیر توسعه و استقلال خود را دنبال کنند.»
+
+بریکس نام گروهی به رهبری برخی از کشورهایی است که اقتصادی نوظهور در جهان دارند. برزیل، روسیه، هند، چین و آفریقای جنوبی اعضای اصلی بریکس هستند. نام بریکس از حروف اول نام کشورهای عضو به زبان انگلیسی گرفته شده است. ایران نیز از دو سال پیش به صورت رسمی به عضویت این سازمان درآمده است.
+
+میزبانی این دوره از نشست وزیران امور خارجه بریکس را هند بر عهده دارد که اقتصاد و بخش انرژی آن به ویژه به خاطر انسداد تنگه هرمز زیر فشار قرار گرفته است. از این رو سایه جنگ ایران و بحران سوخت و انرژی ناشی از آن بر این نشست سنگینی می‌کند.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 14119
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14119_1778758612.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢شی در ضیافت شام با ترامپ در پکن:
+
+«برای آینده روشن روابط چین و آمریکا و دوستی بین دو ملت، و برای سلامتی رئیس جمهور ترامپ و همه دوستان حاضر در جلسه دعا می‌ کنم.»
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14117
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هویدا نخست وزیر ایران در زمان شاه سیزده سال تورم ایران رو ثابت نگه داشته بود؛
+
+زمانیکه بهش نامه زدن به خاطر ماه محرم اداره ها با تاخير باز بشن، در جواب نوشت:
+“با سلام، موافقت نميشود. عبادت بجز خدمت خلق نيست.”
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14116
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14116_1778758614.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسرائیل هیوم: در حالی که توجه‌ها به سمت ایران معطوف شده، حماس بی سر و صدا در حال تسلیح مجدد خود است.
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14115
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14115_1778758615.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢حمله حامیان جمهوری اسلامی به دو گردشگر چینی که در حال تهیه گزارش
+از شرایط کشور در زمان حملات بودند
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14114
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14114_1778758617.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺علی کیایی ‌فر، متخصص امنیت اطلاعات: در جنگ دوازده‌روزه، نوبیتکس، بانک پاسارگاد، بانک سپه و بانک مرکزی از داخل خود ایران هک شدند
+
+مثلاً نوبیتکس توسط یک سرور زامبی در یک مدرسه‌ی علمیه خواهران در قم هک شد.
+
+
+☆Phantom☆
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14113
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 چین: آماده گسترش همکاری با آمریکا هستیم
+
+💢سخنگوی وزارت بازرگانی چین اعلام کرد پکن آماده همکاری با آمریکا برای گسترش فهرست همکاری‌های مشترک میان دو کشور است.
+
+💢بر اساس این اظهارات:
+
+▪️ معاون نخست‌وزیر چین و وزیر خزانه‌داری آمریکا روز چهارشنبه در کره جنوبی دیدار کردند
+▪️ مقام‌های دو کشور گفت‌وگوها را «صریح، عمیق و سازنده» توصیف کرده‌اند
+▪️ چین اعلام کرده همکاری‌ها باید بر پایه:
+
+برابری
+احترام متقابل
+و منافع مشترک
+
+پیش برود.
+
+💢پکن همچنین تأکید کرد دو طرف در تلاش هستند فهرست اختلافات را کاهش داده و روابط اقتصادی و تجاری سالم‌تری ایجاد کنند.
+
+
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157170
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157170_1778758619.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸گزارش‌ها از ایران حاکی از بازداشت مهدی شفاخواه، فعال اجتماعی و مربی داوطلب کودکان کار، توسط وزارت اطلاعات است.
+
+🔸شماری از رسانه‌های حقوق بشری از جمله وب‌سایت هه‌نگاو نوشته‌اند که آقای شفاخواه «در پی یورش نیروهای وزارت اطلاعات جمهوری اسلامی ایران به منزل شخصی‌اش بازداشت و به مکان نامعلومی منتقل شد».
+
+🔸بازداشت او عصر روز سه‌شنبه ۲۲ اردیبهشت صورت گرفته و مأموران وزارت اطلاعات، ضمن بازداشت این فعال اجتماعی اقدام به تفتیش منزل و ضبط لوازم شخصی او نیز کرده‌اند.
+
+🔸هنوز از دلایل بازداشت، اتهامات انتسابی و محل دقیق نگهداری شفاخواه هیچ اطلاع دقیقی در دسترس نیست و پیگیری‌های خانواده او برای کسب اطلاع از وضعیت سلامت او بی‌نتیجه مانده است.
+
+🔸مهدی شفاخواه طی سال‌های اخیر به صورت داوطلبانه در مناطق محروم و حاشیه‌نشین فعالیت داشته و از طریق آموزش ورزش و مهارت‌های اجتماعی به کودکان کار و نوجوانان آسیب‌پذیر، در راستای کاهش آسیب‌های اجتماعی از جمله اعتیاد و بزهکاری تلاش می‌کرد.
+
+🔸او برادر رضا شفاخواه، وکیل دادگستری و فعال حقوق کودکان و زندانیان سیاسی، است.
+
+@RadioFarda
+</div>
+
+## RadioFarda — post 157169
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157169" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸اپیزود ۵۲ پادکست لایه هفتم | گزارش تهدیدهای امنیت سایبری در نیمه دوم ۱۴۰۴
+
+🔸در این اپیزود از بدافزارهای اندرویدی که برای رصد فعالیت‌های آنلاین در گوشی کاربران پنهان می‌شوند صحبت می‌کنیم، همین‌طور از شکل‌های تازه جعل هویت، داکسینگ (یا همان افشای اطلاعات شخصی) و حتی مواردی که حمله سایبری می‌توانسته مقدمه‌ای برای ربایش فیزیکی افراد باشد.
+
+🔸همچنین با حضور داوود سجادی و امیر رشیدی، گزارش جدید تهدیدهای امنیت سایبری ایران در نیمه دوم سال پرالتهاب ۱۴۰۴ را بررسی می‌کنیم. همچنین در ادامه، اصول و راهکارهای عملی برای مقابله با این تهدیدات و محافظت از خود را مرور می‌کنیم.
+
+🔸فردا پادکست 🎧
+</div>
+
+## RadioFarda — post 157168
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157168_1778758620.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📷 Photo
+</div>
+
+## RadioFarda — post 157167
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157167_1778758621.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸 کاخ سفید اعلام کرد دونالد ترامپ، رئیس‌جمهور آمریکا، و شی جین‌پینگ، رئیس‌جمهور چین، در دیدار خود درباره گسترش همکاری‌های اقتصادی، باز ماندن تنگه هرمز و جلوگیری از دستیابی ایران به سلاح هسته‌ای گفت‌وگو و توافق کردند.
+
+🔸 کاخ سفید روز پنجشنبه ۲۴ اردیبهشت در بیانیه‌ای اعلام کرد که دو طرف دربارهٔ افزایش دسترسی شرکت‌های آمریکایی به بازار چین و افزایش سرمایه‌گذاری چین در صنایع آمریکا گفت‌وگو کردند و شماری از مدیران بزرگ‌ترین شرکت‌های آمریکایی نیز در بخشی از این دیدار حضور داشتند.
+
+🔸 کاخ سفید افزود دو کشور همچنین توافق کردند که تنگه هرمز باید برای حفظ جریان آزاد انرژی باز بماند.
+
+🔸 بر اساس این بیانیه، شی جین‌پینگ مخالفت چین با «نظامی‌سازی» تنگه هرمز و هرگونه تلاش برای دریافت عوارض برای استفاده از آن را اعلام کرد و نسبت به خرید بیشتر نفت آمریکا برای کاهش وابستگی چین به این مسیر در آینده ابراز علاقه‌مندی کرد.
+
+🔸 کاخ سفید همچنین اعلام کرد که آمریکا و چین توافق دارند ایران «هرگز» نباید به سلاح هسته‌ای دست یابد.
+
+@RadioFarda
+</div>
+
+## RadioFarda — post 157166
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سایه جنگ غزه همچنان بر سر یوروویژن سنگینی می‌کند؛ وضع قوانین تازه
+
+🔸جنگ ایران درس‌های تازه‌ای دربارهٔ نحوهٔ استفاده از هوش مصنوعی به‌عنوان ابزاری در جنگ‌های مدرن و حکمرانی دولتی آشکار کرده است.
+
+🔸 حکومت ایران به‌طور فزاینده‌ای تبلیغات تولیدشده با هوش مصنوعی، عملیات سایبری، جنگ روانی و کارزارهای نفوذ را در قالب یک اکوسیستم دیجیتال پیچیده برای مخاطبان داخلی و خارجی در هم آمیخته است.
+
+🔸 از ویدئوهای وایرال‌شده به سبک لگو و قطعات هیپ‌هاپ ساخته‌شده با هوش مصنوعی گرفته تا عملیات پنهانی در شبکه‌های اجتماعی و تصاویر جعلی میدان جنگ، تاکتیک‌های حکومت ایران برای نفوذ بیشتر به‌سرعت در حال تحول است و بیش از پیش مخاطبان غربی را هدف قرار می‌دهد.
+
+🔸 رادیو اروپای آزاد/رادیو آزادی برای بررسی چگونگی استفادهٔ جمهوری اسلامی از هوش مصنوعی در تبلیغات و جنگ اطلاعاتی، با مکس لِسِر، تحلیلگر ارشد تهدیدهای نوظهور در مرکز نوآوری سایبری و فناوری بنیاد دفاع از دموکراسی‌ها، گفت‌وگو کرده است.
+
+🔸گزارش کامل را در وب‌سایت رادیو فردا می‌توانید بخوانید.
+
+@RadioFarda
+</div>
+
+## RadioFarda — post 157165
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157165_1778758622.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸رسانه‌های حکومتی ایران مدعی شدند که پاپ لئون چهاردهم «بالاترین نشان افتخاری دیپلماتیک واتیکان» را به سفیر جمهوری اسلامی ایران نزد سریر مقدس اعطا کرده و این نشان «به سفیران و شخصیت‌های برجسته‌ای اعطا می‌شود که در تقویت روابط دیپلماتیک و خدمت به صلح و گفت‌وگو نقش‌آفرینی کرده‌اند».
+
+🔸بر اساس گزارش رسمی واتیکان، این نشان که از درجات نشان «پیوس نهم» به شمار می‌رود، به‌صورت هم‌زمان به ۱۳ سفیر دارای اعتبار نزد واتیکان اعطا شده و یک رویهٔ معمول دیپلماتیک برای سفیرانی است که بیش از دو سال در واتیکان خدمت کرده‌اند.
+
+🔸واتیکان همچنین تصریح کرده که این نشان را شخص پاپ اعطا نکرده، بلکه مراسم توسط پائولو رودلی، از مقام‌های دبیرخانهٔ دولت واتیکان، برگزار شده است.
+
+🔸این در حالی است که رسانه‌های جمهوری اسلامی ایران روز ۲۲ اردیبهشت تصویری از دیدار محمدحسین مختاری، سفیر جمهوری اسلامی ایران، با پاپ لئون چهاردهم در واتیکان را هم در کنار گزارش خود منتشر کرده بودند.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20116
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20116_1778758623.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 کاخ سفید پس از مذاکرات دوجانبه ایالات متحده و چین در پکن، پایتخت چین، در بیانیه‌ای اعلام کرد که دو هیئت در مورد مسائلی مانند دسترسی به بازار چین، سرمایه‌گذاری چین در صنایع ایالات متحده، مواد مخدر، به ویژه فنتانیل، «جریان آزاد» تجارت از طریق تنگه هرمز و سایر مسائل کلیدی گفتگو کردند.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281024
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻لبنان در مذاکرات واشنگتن در پی اجرای آتش‌بس از سوی اسرائیل است
+
+🔻یک مقام ارشد لبنانی اعلام کرد که کشورش در مذاکرات رو در رو با اسرائیل که قرار است امروز در واشنگتن برگزار شود، خواستار اجرای آتش‌بس از سوی اسرائیل خواهد شد.
+
+این مقام لبنانی گفت که هیئت لبنانی به دنبال «آتش‌بسی است که اسرائیل آن را اجرا کند.»
+
+این مذاکرات، سومین دیدار میان نمایندگان لبنان و اسرائیل از زمان ازسرگیری درگیری‌ها میان حزب‌الله و اسرائیل در بیش از دو ماه گذشته است. بیروت با وجود مخالفت شدید حزب‌الله در این مذاکرات شرکت می‌کند.
+
+درگیری‌ها میان حزب‌الله و اسرائیل، با وجود آتش‌بس اعلام‌شده با میانجی‌گری آمریکا در ماه گذشته، همچنان ادامه دارد.
+
+وزارت بهداشت لبنان اعلام کرد که حملات اسرائیل در روز گذشته ۲۲ کشته، از جمله هشت کودک، برجای گذاشته است.
+
+ارتش اسرائیل هم گفته است که امروز موج تازه‌ای از حملات را علیه مواضع حزب‌الله در جنوب لبنان انجام داده است. حزب‌الله هم می‌گوید که دیروز ۱۷ حمله علیه نیروهای اسرائیلی در جنوب انجام داده است.
+
+آمریکا در حالی میانجی‌گری میان لبنان و اسرائیل را دنبال می‌کند که هم‌زمان تلاش‌های دیپلماتیک برای پایان دادن به تنش‌های گسترده‌تر میان آمریکا و ایران نیز ادامه دارد.
+
+https://bbc.in/4uOASy5
+@BBCPersian
+</div>
+
+## BBCPersian — post 281023
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281023_1778758624.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌🔻به گزارش شبکه خبری آرتی، کرملین اعلام کرد که ولادیمیر پوتین، رئیس‌جمهور روسیه، به‌زودی به چین سفر خواهد کرد.
+
+این خبر در حالی اعلام شده است که دونالد ترامپ،‌ رئیس جمهور آمریکا در حال دیدار از چین است.
+
+هنوز تاریخی برای سفر آقای پوتین اعلام نشده، اما دیمیتری پسکوف، سخنگوی کرملین، گفته است که تمام مقدمات این سفر تکمیل شده است.
+
+آخرین سفر آقای پوتین به چین در سپتامبر ۲۰۲۵ بود، زمانی که او در رژه بزرگ نظامی پکن و یک نشست سران شرکت کرد.
+
+رسانه‌های روسی پیش‌تر گزارش داده بودند که این سفر ممکن است حتی در هفته آینده انجام شود.
+
+📷 Reuters
+https://bbc.in/43byntG
+
+@BBCPersian
+</div>
+
+## BBCPersian — post 281022
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻عراقچی: امارات در حملات به ایران «شریک فعال» بوده است
+
+🔻عباس عراقچی، وزیر خارجه ایران که برای شرکت در نشست وزرای خارجه بریکس در دهلی به سر می‌برد، می‌گوید که در سخنرانی خود در بریکس نام امارات متحده عربی را ذکر نکرده است، اما امارات متحده عربی را «شریک فعال» آمریکا و اسرائیل در حمله به ایران توصیف کرد و گفت که این کشور مستقیما در جنگ آمریکا و اسرائیل با ایران «دخیل» بوده است.
+
+او ساعاتی پس از ایراد سخنرانی خود در نشست بریکس در کانال تلگرام خود نوشت: «من در سخنرانی‌ خود نام امارات متحده عربی را ذکر نکردم، به خاطر حفظ وحدت و ترجیح دادم به آن اشاره نکنم. اما در واقع باید بگویم که امارات مستقیماً در اقدام تجاوزکارانه علیه کشور من دخیل بود. زمانی که این تجاوز آغاز شد، آنها حتی از محکوم کردن آن خودداری کردند. آنها اجازه دادند از سرزمین‌شان برای شلیک توپخانه و تجهیزات علیه ما استفاده شود.»
+
+او به خبر روز گذشته درباره سفر بنیامین نتانیاهو در زمان جنگ به امارات و ابوظبی اشاره کرد. رسانه‌های بین‌المللی این خبر را به نقل از دفتر نخست وزیر اسرائیل منتشر کردند اما وزارت خارجه امارات در بیانیه‌ای رسمی آن را تکذیب کرد.
+
+آقای عراقچی در تلگرامش نوشت: «همین دیروز فاش شد که نتانیاهو در زمان جنگ به امارات و ابوظبی سفر کرده بود. همچنین آشکار شد که آنها در این حملات مشارکت داشته‌اند و شاید حتی مستقیماً علیه ما اقدام کرده باشند. بنابراین امارات شریک فعال این تجاوز است و هیچ تردیدی در این باره وجود ندارد.»
+
+خبرگزاری فرانسه گزارش داد که آقای عراقچی، امارات را متهم کرد که مانع موضعگیری واحد از سوی کشورهای بریکس در محکوم کردن جنگ آمریکا و اسرائیل با ایران شده است.
+
+به نظر می‌رسد اختلاف‌نظرها درباره جنگ ایران، تلاش‌ها برای صدور بیانیه مشترک در نشست دهلی را سخت کرده است.
+
+در بیانیه وزارت خارجه امارات که روز چهارشنبه منتشر شد،‌ آماده بود: «امارات متحده عربی گزارش‌های منتشرشده درباره سفر نخست‌وزير اسرائيل يا استقبال از يک هيات نظامی اسرائيلی را تکذيب می‌کند.»
+
+https://bbc.in/4daHQrk
+@BBCPersian
+</div>
+
+## BBCPersian — post 281021
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📽بالاخره کار حکومت‌های ایران و آمریکا به جنگ رودرو و موشک و بمب و کشتار کشید. بعدش هم به مذاکره رودرو . دستکم تا این لحظه. ولی دیپلماسی مردمی که نه در جنگ دخالتی دارند و نه در صلح چی هست؟ آنها می‌توانند کاری بکنند؟
+
+🔻روزگاری آقای نادری که از آن نادره‌های دوران هست ، برای حل این بست بوجود آمده بین این طرف‌های جنگ، یک دیپلماسی خیلی خلاق را پیشنهاد کرد.
+
+🔻با دیپلماسی شکست ناپذیر آقای نادری آشنا بشید.
+
+📺برنامه این هفته آپارات
+«دیپلماسی شکست ناپذیر آقای نادری»
+
+🎬کار مشترک بهتاش صناعی ها و مریم مقدم
+
+🔻ساعات پخش
+جمعه ۹:۰۰ شب
+شنبه ۶:۳۰ صبح
+شنبه ۱۱:۰۰ صبح
+دو‌شنبه۲:۰۰ بامداد
+سه‌شنبه ۱۱:۰۰ صبح
+تکرار جمعه ۱۱:۰۰ صبح
+
+🔻از برنامه آپارات همیشه فیلم متفاوت ببینید.
+@BBCPersian
+</div>
+
+## BBCPersian — post 281020
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281020_1778758624.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌🔻کاخ سفید اعلام کرد که دونالد ترامپ و شی جین‌پینگ، در پکن توافق کردند که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند و تنگه هرمز باید باز بماند.
+
+آمریکا این گفت‌وگوی دو ساعته را «خوب» توصیف کرده و می‌گوید که دو رهبر در حال تلاش برای تقویت همکاری‌های اقتصادی هستند.
+
+در بیانیه کاخ سفید، رئیس‌جمهور شی همچنین «علاقه‌مندی خود را» برای خرید بیشتر نفت آمریکا ابراز کرد تا وابستگی چین به تنگه هرمز را کاهش دهد.
+
+همچنین گفته شد که مدیران برخی از بزرگ‌ترین شرکت‌های آمریکایی هم در بخشی از این دیدار حضور داشتند.
+
+آن‌ها همچنین درباره اهمیت پایان دادن به ورود مواد اولیه برای ساخت ماده مخدر فنتانیل به آمریکا هم صحبت کردند.
+
+https://bbc.in/4uHk6Rf
+📷Reuters
+
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389430
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389430_1778758625.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وقتی از عمو «مارک‌روبیو» حرف می‌زنیم، در واقع داریم از این تفاوت‌هاش با سایر موجودات عالم حرف می‌زنیم،
+
+شما ببین تنها کسیه که این‌طور کنجکاوانه و با شوق و ذوق به سقف تزئینات تالار بزرگ خلق کشور قرمدنگ چین نگاه می‌کنه و اشاره می‌کنه بقیه هم ببینن،
+
+چین قرمساقی که در سال ۲۰۲۰ دو بار عمو مارک روبیو رو که در اون زمان سناتور جمهوری‌خواه ایالت فلوریدا بود رو تحریم کرد، [ممنوعیت ورود خودش و خانواده‌اش به چین و هنگ‌کنگ و مسدود کردن دارایی‌های احتمالی در چین که البته عمو هیچ دارایی در چین نداشت]
+
+سر چی؟
+چون عموی آگاه و اندیشمندم، این محمدعلی‌فروغی زمانه‌ی آمریکایی‌ها، از چین قرمساق در قضیه‌ی سین‌کیانگ و اویغورها و هنگ‌کنگ‌انتقاد شدید کرده بود.
+﻿
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389428
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389428_1778758627.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+و در این میان ایلان پیش‌فعال
+
+روی پله‌ها یک دور هم دور خودش چرخید و از اطراف فیلم گرفت!! :))))
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 112943
+
+<div align="center">
+  <img src="telegram/content/Hranews_112943_1778758628.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فاطمه وحدت، نایب‌رئیس اتحادیه زنان کارگر سراسر کشور، با اشاره به تشدید فشارهای اقتصادی بر اقشار آسیب‌پذیر گفت نشانه‌های گسترش #فقر در جامعه کاملاً مشهود است و در برخی مناطق، مردم حتی برای خرید #نان با مشکل مواجه‌اند. او تأکید کرد این نشانه‌ها در ظاهر کوچک به نظر می‌رسند، اما در صورت بی‌توجهی می‌توانند به بحران‌های جدی اجتماعی تبدیل شوند.
+
+وحدت در ادامه با بیان اینکه زنان کارگر به‌ویژه سرپرستان خانوار در شرایط بحرانی بیش از دیگران در معرض اخراج قرار دارند، افزود این روند در بسیاری از استان‌ها مشاهده می‌شود و پیامدهای آن تنها به از دست رفتن شغل محدود نمی‌ماند، بلکه امنیت روانی و معیشت خانواده‌ها را نیز تحت تأثیر قرار می‌دهد. به گفته او، نبود سازوکار حمایتی مشخص برای زنان کارگر و ضعف نظارت بر وضعیت اشتغال، می‌تواند شکاف‌های اجتماعی را عمیق‌تر کند.
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## Hranews — post 112942
+
+<div align="center">
+  <img src="telegram/content/Hranews_112942_1778758629.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همزمان با افزایش چشمگیر قیمت #دارو در ماه‌های اخیر، شماری از داروخانه‌ها و مراکز درمانی همکاری خود با بیمه‌های درمانی را متوقف کرده‌اند یا برخی داروهای دارای پوشش بیمه بالا را عرضه نمی‌کنند. خبرگزاری فارس با انتشار گزارشی در این رابطه نوشته است که قیمت برخی داروها طی سه تا چهار ماه گذشته تا سه برابر افزایش یافته است. در مقابل، شرکت‌های بیمه‌ای نیز مطالبات داروخانه‌ها را با تاخیر چندماهه پرداخت می‌کنند؛ موضوعی که به گفته داروخانه‌داران، فروش دارو با نرخ بیمه‌ای را از نظر اقتصادی دشوار کرده است.
+
+برخی بیماران برای تهیه داروهای حیاتی از جمله انسولین، داروهای قلب و فشار خون، ناچار به پرداخت هزینه‌های چندمیلیونی شده‌اند. بهمن صبور، عضو هیئت‌مدیره انجمن داروسازان ایران، با اشاره به پرداخت نقدی هزینه دارو توسط داروخانه‌ها و تاخیر طولانی بیمه‌ها در بازپرداخت مطالبات، این روند را برای مراکز درمانی زیان‌بار توصیف کرده است.
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## manototv — post 105441
+
+<div align="center">
+  <a href="telegram/content/manototv_105441_1778758630.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+معین، خواننده شهیر در صفحه اینستاگرام خود با انتشار متنی، شایعات مطرح شده در خصوص اجرا برای تیم فوتبال در جام جهانی را تکذیب کرد. معین در متن خود از جمله نوشته: «عشق من به مردم و سرزمینم همیشه واقعی بوده. اما صدای من زمانی معنا دارد که دل مردم آرام باشد و حال ایران خوب»
+روز گذشته اظهارات مهدی تاج، رئیس فدراسیون فوتبال جمهوری‌اسلامی به شایعاتی از این دست دامن زده بود.
+</div>
+
+## manototv — post 105440
+
+<div align="center">
+  <a href="telegram/content/manototv_105440_1778758630.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی تاج، رئیس فدراسیون فوتبال جمهوری‌اسلامی گفته «مسئله ویزا حل نشده و هنوز هیچ روادیدی برای اعضای تیم ملی فوتبال ایران صادر نشده است.» و افزوده «منتظریم ببینیم رفتار طرف مقابل چیست.»
+او از «جلسه سرنوشت‌ساز» با فیفا صحبت به میان آورده چرا که به گفته تاج فیفا «باید به ما گارانتی بدهد»
+</div>
+
+## manototv — post 105439
+
+<div align="center">
+  <a href="telegram/content/manototv_105439_1778758631.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه نیویورک‌تایمز گزارش داد نهادهای اطلاعاتی آمریکا معتقدند شرکت‌های چینی درباره ارسال مخفیانه تسلیحات به جمهوری اسلامی از طریق کشورهای ثالث گفت‌وگو کرده‌اند تا منشأ این محموله‌ها پنهان بماند.
+این گزارش ساعاتی پس از ورود دونالد ترامپ به پکن منتشر شد و می‌تواند فشارها بر رئیس‌جمهوری آمریکا را برای درخواست از شی جین‌پینگ به‌منظور قطع حمایت از جمهوری اسلامی افزایش دهد.
+بر اساس این گزارش، مقام‌های آمریکایی بر سر این‌که آیا این انتقال‌ها بالفعل انجام شده یا نه اختلاف نظر دارند، اما گفته‌اند چنین اقداماتی بعید است بدون اطلاع مقام‌های ارشد چینی صورت گرفته باشد.
+رسانه‌های آمریکایی پیش‌تر نیز گزارش داده بودند چین موشک‌های دوش‌پرتاب ضدهوایی به جمهوری اسلامی ارسال کرده است؛ تسلیحاتی که می‌توانند هواپیماها و پهپادها را هدف قرار دهند. همچنین گفته می‌شود تهران در سال ۲۰۲۴ یک ماهواره جاسوسی چینی دریافت کرده که برای شناسایی نیروهای آمریکایی در خاورمیانه از آن استفاده می‌کند.
+در همین حال، گزارش‌هایی از بازسازی توان موشکی جمهوری اسلامی پس از حملات آمریکا و اسرائیل منتشر شده است. بر اساس ارزیابی سازمان سیا، بخش قابل توجهی از موشک‌های بالستیک و پرتابگرهای متحرک ایران همچنان سالم مانده‌اند.
+</div>
+
+## manototv — post 105437
+
+<div align="center">
+  <a href="telegram/content/manototv_105437_1778758633.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بانک مرکزی ترکیه هدف تورم پایان سال ۲۰۲۶ را از ۱۶ به ۲۴ درصد افزایش داد و اعلام کرد پیامدهای جنگ ایران و اسرائیل و افزایش تنش‌ها در خاورمیانه، فشارهای تورمی را تشدید کرده است. رئیس بانک مرکزی ترکیه گفت افزایش بهای انرژی و اختلال در عرضه، به‌ویژه برای اقتصادهای وابسته به واردات مانند ترکیه، یک ریسک جدی محسوب می‌شود. این بانک همچنین پیش‌بینی تورم پایان ۲۰۲۷ را از ۹ به ۱۵ درصد افزایش داد. نرخ تورم ماهانه ترکیه در آوریل به بیش از ۴ درصد و تورم سالانه به حدود ۳۲ درصد رسید.
+</div>
+
+## manototv — post 105436
+
+<div align="center">
+  <a href="telegram/content/manototv_105436_1778758633.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مرکز عملیات تجارت دریایی بریتانیا (UKMTO) در یک هشدار امنیتی اعلام کرد یک کشتی در دریای عمان، در حالی که در لنگرگاه قرار داشت، توسط «افراد غیرمجاز» تصرف شده و اکنون به سمت آب‌های سرزمینی ایران در حرکت است.
+بر اساس هشدار رسمی UKMTO، این حادثه حدود ۳۸ مایل دریایی شمال شرقی فجیره امارات متحده عربی رخ داده است. هویت کشتی و جزئیات بیشتر درباره مهاجمان هنوز اعلام نشده است.
+این نهاد بریتانیایی اعلام کرد در حال بررسی موضوع است و از همه شناورها خواسته هرگونه فعالیت مشکوک را فورا گزارش دهند.
+هشدار صبح امروز چهارشنبه منتشر شده و نشان‌دهنده یک رخداد امنیتی تازه و حساس در آبراه‌های منطقه است.
+اگرچه این نهاد هنوز درباره عاملان احتمالی این حادثه اظهار نظر نکرده، اما چنین هشدارهایی معمولا در موارد مرتبط با توقیف کشتی‌ها، دزدی دریایی یا عملیات نیروهای نظامی و شبه‌نظامی در منطقه صادر می‌شود.
+</div>
+
+## alonews — post 119919
+
+<div align="center">
+  <a href="telegram/content/alonews_119919_1778758634.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حرکات عجیب ایلان ماسک بعد مستی
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119918
+
+<div align="center">
+  <a href="telegram/content/alonews_119918_1778758636.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ از شی جین‌پینگ دعوت کرد تا در تاریخ ۲۴ سپتامبر از کاخ سفید بازدید کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119917
+
+<div align="center">
+  <a href="telegram/content/alonews_119917_1778758636.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈صداوسیما به‌نقل از نیروی دریایی سپاه:
+از شب گذشته تاکنون ۳۰ فروند کشتی از تنگۀ هرمز با مجوز ایران عبور کرده‌اند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119916
+
+<div align="center">
+  <a href="telegram/content/alonews_119916_1778758636.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اسکات بسنت، وزیر خزانه‌داری آمریکا :
+
+- تا الان امسال سی و چهل هزار نفر رو اعدام کردن و خیلی‌هاشون هم معترضای مسالمت‌آمیز بودن
+- خب با همچین رژیمی چطور باید برخورد کرد؟
+- از نظر اقتصادی خفش می‌کنیم،و فکر می‌کنیم کار به جایی رسیده که سربازاشون حقوق نمی‌گیرن
+- نمی‌تونن از خارج هم سلاح و مهماتشون رو تأمین کنن
+- برای همین فکر می‌کنم دیگه دارن به آخر خط می‌رسن
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119915
+
+<div align="center">
+  <img src="telegram/content/alonews_119915_1778758639.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صدا و سیما: قراره محرم یه سریال کاملا جدید و خفن به اسم مختارنامه از شبکه آی فیلم پخش کنیم.
+
+[@AloTweet]
+</div>
+
+## alonews — post 119914
+
+<div align="center">
+  <a href="telegram/content/alonews_119914_1778758639.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شهبازی،مجری صداوسیما: بهترین کاری که جمهوری اسلامی تو 47 سال گذشته انجام داد ملی کردن اینترنت و دادن اينترنت به اهلش بود نه يه مشت مزدور داخلی!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119913
+
+<div align="center">
+  <a href="telegram/content/alonews_119913_1778758639.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تصاویری از ایلان ماسک که در ضیافت شام پکن با حضور شی و ترامپ
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119912
+
+<div align="center">
+  <a href="telegram/content/alonews_119912_1778758641.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار صداوسیما به نقل از نیروی دریایی سپاه: از شب گذشته تاکنون ۳۰ فروند کشتی از تنگه هرمز با مجوز ایران عبور کرده‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119911
+
+<div align="center">
+  <a href="telegram/content/alonews_119911_1778758641.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : گفت‌وگوهاش با شی جین‌پینگ «سازنده» بوده و برای هر دو کشور مفید بود
+
+
+🔴 ترامپ به‌طور رسمی از شی جین‌پینگ دعوت کرد که در ۲۴ سپتامبر به آمریکا و کاخ سفید سفر کنه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119910
+
+<div align="center">
+  <a href="telegram/content/alonews_119910_1778758642.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شی جین‌پینگ دوباره تأکید کرد که کشورهای ما باید به جای رقیب، شریک باشن
+
+
+🔴به آینده روشن روابط چین و آمریکا
+
+
+🔴به دوستی میان مردم دو کشور، و به سلامتی رئیس‌جمهور ترامپ و همه دوستان ی پیک عرق میخورم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119909
+
+<div align="center">
+  <a href="telegram/content/alonews_119909_1778758642.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پاکستان: آتش‌بس برقرار است و ما با طرفین مذاکرات در ارتباط هستیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119908
+
+<div align="center">
+  <a href="telegram/content/alonews_119908_1778758642.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس جمهور چین: رنسانس چین و شعار «آمریکا را دوباره بزرگ کنیم» می‌توانند دست در دست هم پیش بروند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119907
+
+<div align="center">
+  <a href="telegram/content/alonews_119907_1778758642.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس: عبور کشتی‌های چینی از تنگه هرمز با هماهنگی ایران آغاز شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119906
+
+<div align="center">
+  <a href="telegram/content/alonews_119906_1778758643.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈طی ۲۴ ساعت گذشته بزرگترین حملات پهپادی ثبت شده تا امروز از سوی روسیه علیه اوکراین با بیش از ۱۴۰۰ فروند پهپاد انتحاری ثبت شده است.
+
+
+🔴همچنین بیش از پنجاه تیر موشک نیز شلیک شده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 13:45
 ---
 
