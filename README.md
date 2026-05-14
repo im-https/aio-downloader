@@ -145,12 +145,12 @@
 1. **Actions** → **youtube-downloader** → **Run workflow**
 2. ورودی: `URL v/a رزولوشن fps` (fps اختیاری)
 
-+++
+```
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
 https://www.youtube.com/watch?v=VIDEO_ID a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k
-+++
+```
 
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`, `min`, `1080`, `2k`, `4k` و …
@@ -168,11 +168,11 @@ https://www.youtube.com/watch?v=VIDEO_ID v 4k
 1. **Actions** → **instagram-downloader** → **Run workflow**
 2. لینک‌ها را با کاما، فاصله یا خط جدید جدا کنید.
 
-+++
+```
 https://www.instagram.com/p/DX2y7oLDFOb/,
 https://www.instagram.com/reel/DVRXhn0gjL3/,
 https://www.instagram.com/p/DX6US4uCNGb/
-+++
+```
 
 3. خروجی ZIP در پوشه `instagram/`.
 
@@ -186,10 +186,10 @@ https://www.instagram.com/p/DX6US4uCNGb/
 1. **Actions** → **x-downloader** → **Run workflow**
 2. لینک‌ها را با کاما، فاصله یا خط جدید وارد کنید.
 
-+++
+```
 https://x.com/username/status/123456789,
 https://x.com/otheruser/status/987654321
-+++
+```
 
 3. خروجی ZIP در پوشه `x/`.
 
@@ -201,10 +201,10 @@ https://x.com/otheruser/status/987654321
 1. **Actions** → **direct-downloader** → **Run workflow**
 2. لینک‌های مستقیم (`.zip`, `.mp4`, `.apk`, `.pdf` و …) را بچسبانید.
 
-+++
+```
 https://example.com/file.zip,
 https://example.com/video.mp4
-+++
+```
 
 3. فایل‌ها در `direct/` ذخیره می‌شوند (بزرگ‌تر از ۹۹MB به ZIP چندبخشی تقسیم می‌شوند).  
 ℹ️ برای جلوگیری از تداخل، یک رشته تصادفی به نام فایل اضافه می‌شود — می‌توانید همان فایل را چندبار دانلود کنید.
@@ -226,9 +226,9 @@ https://example.com/video.mp4
 #### ➕ افزودن/حذف کانال
 فایل `telegram/channels.json` را ویرایش کنید. **نام کانال را بدون @ وارد کنید.**
 
-+++
+```
 ["VahidOOnLine", "mwarmonitor", "channelname"]
-+++
+```
 
 #### ▶️ اجرای دستی
 **Actions** → **telegram-fetcher** → **Run workflow**
@@ -252,10 +252,10 @@ https://example.com/video.mp4
 1. **Actions** → **website-capture** → **Run workflow**
 2. آدرس کامل با `https://` را وارد کنید.
 
-+++
+```
 https://example.com/article
 https://github.com/ProAlit/aio-downloader
-+++
+```
 
 3. خروجی‌ها در پوشه `website/` — هم فایل PDF و هم فایل MHTML.
 
@@ -272,20 +272,20 @@ https://github.com/ProAlit/aio-downloader
 برای بهترین نتیجه، **حتماً از حالت خام استفاده کنید.**  
 کافیست بعد از لینک، دو خط فاصله `--` بگذارید و سپس هر آرگومان معتبر `yt-dlp` را بنویسید. سیستم هیچ پردازش خودکاری انجام نمی‌دهد و دقیقاً همان دستور شما اجرا می‌شود.
 
-+++
+```
 https://www.youtube.com/watch?v=VIDEO_ID -- --format "bestvideo[height<=1080]+bestaudio/best[height<=1080]" --merge-output-format mkv
 https://www.tiktok.com/@user/video/ID -- --write-subs --sub-lang en
-+++
+```
 
 > **نکته:** کوکی‌های موجود در Secrets خودکار تشخیص داده می‌شوند.
 
 #### 🔹 حالت میانبر
 هنوز هم می‌توانید از `v` (ویدیو) و `a` (صدا) استفاده کنید، ولی **برای محتوایی که ویدیو/صدا/موسیقی نیست، نرخ شکست بالایی دارد.** اگر لینک شما از این نوع نیست، حتماً به حالت خام بروید.
 
-+++
+```
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
 https://soundcloud.com/artist/track a 320
-+++
+```
 
 #### ❓ اگر دستور بلد نیستید
 از چت‌بات‌های هوش مصنوعی مثل **[chat.deepseek.com](https://chat.deepseek.com)** (بدون فیلتر) بپرسید:  
@@ -294,7 +294,7 @@ https://soundcloud.com/artist/track a 320
 
 #### 📋 مثال‌های جذاب از حالت خام:
 
-+++
+```
 # یوتیوب با زیرنویس
 https://www.youtube.com/watch?v=ID -- -f "bestvideo[height<=1080]+bestaudio" --write-subs --sub-lang en --merge-output-format mp4
 # اینستاگرام
@@ -305,7 +305,7 @@ https://x.com/user/status/ID -- --format best
 https://www.pinterest.com/pin/ID -- --format best
 # ساندکلاد
 https://soundcloud.com/artist/track -- --format bestaudio
-+++
+```
 
 خروجی‌ها در پوشه `leecher/` زیپ می‌شوند.
 
@@ -317,10 +317,10 @@ https://soundcloud.com/artist/track -- --format bestaudio
 1. **Actions** → **spotify-soundcloud-downloader** → **Run workflow**
 2. لینک‌ها را وارد کنید.
 
-+++
+```
 https://open.spotify.com/track/ID,
 https://soundcloud.com/artist/track
-+++
+```
 
 3. فایل‌ها در `music/` (تبدیل خودکار با ffmpeg).
 
@@ -361,11 +361,11 @@ https://soundcloud.com/artist/track
 3. **architecture**: `arm64` (پیش‌فرض) یا `armv7`.
 4. **merge_splits**: ادغام APKهای چندبخشی (پیش‌فرض فعال).
 
-+++
+```
 app: com.spotify.music
 architecture: arm64
 merge_splits: true
-+++
+```
 
 5. فایل APK (زیپ‌شده) در `google-play/`.
 
@@ -384,18 +384,18 @@ merge_splits: true
 #### نحوه استفاده:
 1. **Actions** → **mhrv-vps-exit-node-actions** → **Run workflow**
 2. پس از ۲۰-۳۰ ثانیه در لاگ، خطی شبیه زیر می‌بینید:
-+++
+```
 https://random-name.trycloudflare.com
-+++
+```
 3. این URL را کپی و در بخش `exit_node` کانفیگ VPN خود قرار دهید:
-+++
+```
 "exit_node": {
     "enabled": true,
     "provider": "vps",
     "url": "https://random-name.trycloudflare.com",
     "psk": "همان_رمز_مخفی"
 }
-+++
+```
 
 > ⏱️ اعتبار هر URL تا ۶ ساعت است. بعداً باید دوباره اجرا کنید.  
 > ⚠️ URL و PSK را کنار هم منتشر نکنید.
